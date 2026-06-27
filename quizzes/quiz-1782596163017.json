@@ -1,0 +1,1736 @@
+{
+  "id": "quiz-1782596163017",
+  "title": "Try Out Set B_ Versi 2_PERPAJAKAN",
+  "subject": "PERPAJAKAN",
+  "description": "",
+  "duration": 120,
+  "count": 75,
+  "createdAt": "2026-06-27T21:36:03.017Z",
+  "questions": [
+    {
+      "num": 1,
+      "text": "Berikut ini merupakan sistem pemungutan pajak, kecuali ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Self Assessment System"
+        },
+        {
+          "key": "B",
+          "text": "With Holding System"
+        },
+        {
+          "key": "C",
+          "text": "Self Official System   "
+        },
+        {
+          "key": "D",
+          "text": "Official Assessment System"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 2,
+      "text": "Adriansyah status menikah tetapi belum mempunyai anak bekerja sebagai pegawai tetap pada PT Harapan dengan memperoleh gaji sebulan sebesar Rp7.000.000. Premi asuransi kecelakaan kerja dan premi asuransi kematian yang dibayarkan oleh pemberi kerja setiap bulan masing- masing Rp30.000 dan Rp10.000. Adriansyah menanggung iuran pensiun dan iuran jaminan hari tua (JHT) masing-masing sebesar Rp20.000 dan Rp15.000. Dalam tahun 2017 Adriansyah menerima Tunjangan Hari Raya (THR) Rp6.000.000. Biaya jabatan adalah 5%. Berapa PPh Pasal 21 atas THR yang harus dipotong?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp485.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp185.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp385.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp285.000   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 3,
+      "text": "Pajak adalah prestasi kepada pemerintah yang terutang melalui norma-norma umum dan dapat dipaksakan tanpa adanya kontraprestasi yang dapat ditunjukkan dalam hal pajak yang dimaksudkan untuk membiayai pengeluaran pemerintah adalah definisi pajak yang dikemukakan oleh ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Prof Dr. MJH. Smeets"
+        },
+        {
+          "key": "B",
+          "text": "Prof. Dr. P.J.A. Adriani   "
+        },
+        {
+          "key": "C",
+          "text": "S. I. Djajadiningrat"
+        },
+        {
+          "key": "D",
+          "text": "Adam Smith"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 4,
+      "text": "Pajak yang dikumpulkan dapat mempengaruhi kehidupan ekonomis wajib pajak. Pajak yang dikumpulkan jangan sampai mengganggu kelancaran produksi perusahaan. Pernyataan tersebut merupakan prinsip utama perpajakan yaitu ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Efficiency"
+        },
+        {
+          "key": "B",
+          "text": "Economic effects must be considered   "
+        },
+        {
+          "key": "C",
+          "text": "Equity"
+        },
+        {
+          "key": "D",
+          "text": "Effective"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 5,
+      "text": "Bank Makmur berdiri dan terdaftar sebagai Wajib Pajak sejak tanggal 1 April 2016. Perkiraan laporan keuangan triwulan pertama menunjukkan penghasilan neto sebesar Rp225.000.000. Besarnya PPh Pasal 25 untuk bulan April, Mei, dan Juni 2016 adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp15.750.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp17.500.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp18.750.000   "
+        },
+        {
+          "key": "D",
+          "text": "Rp16.500.000"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 6,
+      "text": "Berikut ini adalah pembayaran yang PPN dan PPnBM tidak dipungut oleh Bendaharawan Pemerintah, kecuali ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pembayaran untuk pembebasan tanah"
+        },
+        {
+          "key": "B",
+          "text": "Pembayaran atas pembelian peralatan kantor sebesar Rp2.500.000   "
+        },
+        {
+          "key": "C",
+          "text": "Pembayaran atas rekening telepon"
+        },
+        {
+          "key": "D",
+          "text": "Pembayaran yang jumlahnya paling banyak Rp1.000.000 dan tidak merupakan pembayaran yang terpecah-pecah"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 7,
+      "text": "Fungsi Surat Pemberitahuan bagi pemotong atau pemungut pajak adalah untuk ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Melaporkan penundaan pembayaran pajak"
+        },
+        {
+          "key": "B",
+          "text": "Melaporkan kesalahan perhitungan pajak terutang"
+        },
+        {
+          "key": "C",
+          "text": "Melaporkan dan mempertanggungjawabkan pajak yang dipotong atau dipungut dan disetorkan   "
+        },
+        {
+          "key": "D",
+          "text": "Melaporkan harta dan kewajiban"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 8,
+      "text": "Sebuah gedung dengan harga perolehan Rp1.840.000.000. Menurut Pasal 11 UU Nomor 36 Tahun 2008, ditentukan masa manfaat gedung tersebut adalah 20 tahun. Penyusutannya setiap tahun adalah sebesar ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp100.000.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp70.000.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp92.000.000   "
+        },
+        {
+          "key": "D",
+          "text": "Rp80.000.000"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 9,
+      "text": "Wajib Pajak yang memperoleh penghasilan dari Indonesia dikenakan pajak di Indonesia tanpa memperhatikan wilayah tempat tinggal dan kewarganegaraan Wajib Pajak adalah ciri dari Asas pemungutan pajak yaitu Asas ….",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sumber   "
+        },
+        {
+          "key": "B",
+          "text": "Domisili"
+        },
+        {
+          "key": "C",
+          "text": "Kebangsaan"
+        },
+        {
+          "key": "D",
+          "text": "Tempat tinggal"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 10,
+      "text": "PT Bahana menyampaikan permohonan perpanjangan waktu penyampaian SPT Tahunan PPh tahun pajak 2014 pada tanggal 11 Januari 2015, dengan perhitungan sementara PPh Pasal 25 Bulan Desember 2014 sebesar Rp7.500.000 dan Pajak Penghasilan terutang sebesar Rp150.000.000. PPh Pasal 22, Pasal 23, dan Pasal 24 yang dapat dikreditkan berjumlah Rp48.600.000. Jika PT Bahana diberikan izin perpanjangan waktu penyampaian SPT Tahunan PPh tahun pajak 2014 sampai dengan 30 Juni 2015, maka besarnya Angsuran PPh Pasal 25 untuk bulan Maret 2015 adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp8.600.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp7.000.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp8.450.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp7.500.000   "
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 11,
+      "text": "Tarif Pajak Penghasilan Pasal 26 atas Dividen adalah sebesar ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "20% dari jumlah penghasilan neto"
+        },
+        {
+          "key": "B",
+          "text": "20% dari jumlah penghasilan bruto   "
+        },
+        {
+          "key": "C",
+          "text": "15% dari jumlah penghasilan neto"
+        },
+        {
+          "key": "D",
+          "text": "15% dari jumlah penghasilan bruto"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 12,
+      "text": "PT Bina Karya membayar imbalan jasa pelaksana konstruksi kepada PT Ada Karya sebesar Rp94.600.000. Penerimaan pembayaran tersebut tidak termasuk PPN. PT Ada Karya memiliki NPWP dan sebagai penyedia jasa yang memiliki kualifikasi usaha kecil. PPh Pasal 4 ayat 2 yang harus dipotong adalah sebesar ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp3.440.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp2.580.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp946.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp1.892.000   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 13,
+      "text": "Pajak adalah prestasi yang dipaksakan sepihak oleh dan terutang kepada penguasa (menurut norma-norma yang ditetapkan secara umum), tanpa ada kontraprestasi, dan semata-mata digunakan untuk menutup pengeluaran-pengeluaran adalah definisi pajak yang dikemukakan oleh ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "S. I. Djajadiningrat"
+        },
+        {
+          "key": "B",
+          "text": "Prof. Edwin R. A. Seligman"
+        },
+        {
+          "key": "C",
+          "text": "Adam Smith"
+        },
+        {
+          "key": "D",
+          "text": "Dr. N. J. Feldmann   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 14,
+      "text": "Apriya melaporkan usahanya untuk dikukuhkan sebagai Pengusaha Kena Pajak pada tanggal 20 Maret 2016. Pengukuhan sebagai Pengusaha Kena Pajak diberikan pada tanggal 21 April 2016. Sampai tanggal 20 Maret 2016, Apriya melakukan transaksi Barang Kena Pajak sebesar Rp80.000.000. Pajak Masukan yang dapat dikreditkan adalah sebesar ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp0"
+        },
+        {
+          "key": "B",
+          "text": "Rp200.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp400.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp1.600.000   "
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 15,
+      "text": "Tarif Pajak atas penghasilan berupa bunga simpanan yang dibayarkan oleh koperasi kepada anggota koperasi Orang Pribadi adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "0% untuk bunga simpanan sampai dengan Rp250.000 per bulan dan 10% untuk bunga simpanan lebih dari Rp250.000 per bulan"
+        },
+        {
+          "key": "B",
+          "text": "5% untuk bunga simpanan sampai dengan Rp240.000 per bulan dan 15% untuk bunga simpanan lebih dari Rp240.000 per bulan"
+        },
+        {
+          "key": "C",
+          "text": "5% untuk bunga simpanan sampai dengan Rp250.000 per bulan dan 15% untuk bunga simpanan lebih dari Rp250.000 per bulan"
+        },
+        {
+          "key": "D",
+          "text": "0% untuk bunga simpanan sampai dengan Rp240.000 per bulan atau 10% untuk bunga simpanan lebih dari Rp240.000 per bulan   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 16,
+      "text": "Pajak yang dalam pemungutan/pengenaannya memperhatikan keadaan diri wajib pajak disebut ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pajak tidak langsung"
+        },
+        {
+          "key": "B",
+          "text": "Pajak langsung"
+        },
+        {
+          "key": "C",
+          "text": "Pajak daerah"
+        },
+        {
+          "key": "D",
+          "text": "Pajak subjektif   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 17,
+      "text": "Pemungut Pajak Penghasilan Pasal 22 adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Badan Penyelenggara Jaminan Sosial Tenaga Kerja"
+        },
+        {
+          "key": "B",
+          "text": "Orang Pribadi yang melakukan kegiatan usaha atau pekerjaan bebas"
+        },
+        {
+          "key": "C",
+          "text": "Badan Usaha Milik Swasta"
+        },
+        {
+          "key": "D",
+          "text": "Bank Devisa dan Direktorat Jenderal Bea dan Cukai atas impor barang   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 18,
+      "text": "Berikut ini yang bukan sebagai Subjek Pajak atau penerima penghasilan yang dipotong PPh Pasal 21 adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Orang Pribadi yang merupakan pegawai"
+        },
+        {
+          "key": "B",
+          "text": "Orang Pribadi Penerima uang pesangon"
+        },
+        {
+          "key": "C",
+          "text": "Orang Pribadi bukan pegawai yang menerima atau memperoleh penghasilan sehubungan dengan pekerjaan"
+        },
+        {
+          "key": "D",
+          "text": "Orang pribadi yang memberikan gaji pegawai   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 19,
+      "text": "Berikut ini yang merupakan Subjek Pajak Hotel adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Orang Pribadi yang melakukan pembayaran kepada Orang Pribadi yang mengusahakan Hotel"
+        },
+        {
+          "key": "B",
+          "text": "Semuanya benar   "
+        },
+        {
+          "key": "C",
+          "text": "Badan yang melakukan pembayaran kepada Orang Pribadi yang mengusahakan Hotel"
+        },
+        {
+          "key": "D",
+          "text": "Orang Pribadi yang melakukan pembayaran kepada Badan yang mengusahakan Hotel"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 20,
+      "text": "PT Samudera membuat kontrak kerjasama transportasi dengan perusahaan pelayaran luar negeri Munchen Lines untuk mengangkut hasil produksi perusahaan ke Jerman. Nilai kontrak sebesar Rp100.000.000 per sekali angkut. Munchen Lines sendiri memiliki BUT di Indonesia yaitu BUT Munchen Lines. Berapakah PPh Pasal 15 terutang dari penghasilan yang diperoleh BUT Munchen Lines tersebut?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp1.520.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp1.420.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp2.640.000   "
+        },
+        {
+          "key": "D",
+          "text": "Rp1.220.000"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 21,
+      "text": "Objek Pajak Kendaraan Bermotor adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kendaraan bermotor untuk pertahanan negara"
+        },
+        {
+          "key": "B",
+          "text": "Sewa operasi kendaraan bermotor"
+        },
+        {
+          "key": "C",
+          "text": "Uang muka pembelian kendaraan bermotor"
+        },
+        {
+          "key": "D",
+          "text": "Kepemilikan dan/atau penguasaan Kendaraan Bermotor   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 22,
+      "text": "Mahmud Latif status menikah tetapi tidak memiliki anak, bekerja di PT Angkasa dengan memperoleh gaji sebulan sebesar Rp10.000.000 dan membayar iuran pensiun sebesar Rp150.000. Biaya jabatan sebesar 5%. Berapa Penghasilan Kena Pajak setahun Mahmud Latif?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp53.700.000   "
+        },
+        {
+          "key": "B",
+          "text": "Rp23.400.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp43.600.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp33.500.000"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 23,
+      "text": "Tarif Pajak Penghasilan yang bersifat final atas bunga dari Deposito dalam mata uang dolar adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tarif 0% dari jumlah bruto untuk Deposito dengan jangka waktu enam bulan"
+        },
+        {
+          "key": "B",
+          "text": "Tarif 10% dari jumlah bruto untuk Deposito dengan jangka waktu satu bulan   "
+        },
+        {
+          "key": "C",
+          "text": "Tarif 2,5% dari jumlah bruto untuk Deposito dengan jangka waktu dua bulan"
+        },
+        {
+          "key": "D",
+          "text": "Tarif 7,5% dari jumlah bruto untuk Deposito dengan jangka waktu satu bulan"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 24,
+      "text": "PT Plastiko adalah perusahaan produsen plastik kemasan. Pada Januari 2017, PT Plastiko mengimpor mika lembaran sebagai bahan baku dengan nilai impor sebesar Rp132.000.000. Mika kemasan tidak termasuk barang tertentu dan barang tertentu lainnya. Jika PT Plastiko tidak memiliki Angka Pengenal Impor (API), maka besarnya PPh Pasal 22 adalah sebesar ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp9.900.000   "
+        },
+        {
+          "key": "B",
+          "text": "Rp12.700.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp10.800.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp11.200.000"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 25,
+      "text": "Batas waktu pembayaran PPh Pasal 23/26 yang dipotong oleh pemotong PPh adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Paling lama tanggal 15 bulan berikutnya setelah masa pajak berakhir"
+        },
+        {
+          "key": "B",
+          "text": "Paling lama tanggal 20 bulan berikutnya setelah masa pajak berakhir"
+        },
+        {
+          "key": "C",
+          "text": "Paling lama tanggal 25 bulan berikutnya setelah masa pajak berakhir"
+        },
+        {
+          "key": "D",
+          "text": "Paling lama tanggal 10 bulan berikutnya setelah masa pajak berakhir   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 26,
+      "text": "Dibawah ini yang termasuk objek Reklame ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Semuanya benar   "
+        },
+        {
+          "key": "B",
+          "text": "Reklame pada kendaraan"
+        },
+        {
+          "key": "C",
+          "text": "Stiker"
+        },
+        {
+          "key": "D",
+          "text": "Billboard"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 27,
+      "text": "Subjek pajak luar negeri adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Orang Pribadi yang bertempat tinggal di Indonesia"
+        },
+        {
+          "key": "B",
+          "text": "Badan yang tidak didirikan dan tidak bertempat kedudukan di Indonesia, yang menjalankan usaha atau melakukan kegiatan "
+        },
+        {
+          "key": "C",
+          "text": "Orang Pribadi yang tidak bertempat tinggal di Indonesia, orang pribadi yang berada di Indonesia lebih dari 183 hari dalam jangka"
+        },
+        {
+          "key": "D",
+          "text": "Badan yang didirikan dan bertempat kedudukan di Indonesia, yang menjalankan usaha atau melakukan kegiatan melalui Bentuk"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 28,
+      "text": "Fungsi pajak sebagai sumber penerimaan negara adalah fungsi ….",
+      "options": [
+        {
+          "key": "A",
+          "text": "Alokasi"
+        },
+        {
+          "key": "B",
+          "text": "Distribusi"
+        },
+        {
+          "key": "C",
+          "text": "Budgetair   "
+        },
+        {
+          "key": "D",
+          "text": "Regulerend"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 29,
+      "text": "Berdasarkan Pasal 15 UU Pajak Penghasilan, yang menjadi Objek Pengenaan PPh atas penghasilan yang diterima atau diperoleh Wajib Pajak dari pengangkutan orang dan/atau barang, adalah termasuk penyewaan kapal yang dilakukan dari ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pelabuhan di Indonesia ke pelabuhan lainnya di Indonesia"
+        },
+        {
+          "key": "B",
+          "text": "Semua benar   "
+        },
+        {
+          "key": "C",
+          "text": "Pelabuhan di Indonesia ke pelabuhan di luar Indonesia"
+        },
+        {
+          "key": "D",
+          "text": "Pelabuhan di luar Indonesia ke pelabuhan di Indonesia"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 30,
+      "text": "Joko Waluyo status kawin dan memiliki satu anak terdaftar sebagai Wajib Pajak sejak tanggal 1 Maret 2016. Peredaran atau penerimaan bruto menurut pembukuan bulan Maret 2016 sebesar Rp100.000.000 dan biaya yang diperkenankan sebesar Rp80.000.000. Angsuran PPh Pasal 25 bulan Maret 2016 adalah sebesar ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp1.750.700"
+        },
+        {
+          "key": "B",
+          "text": "Rp1.795.800   "
+        },
+        {
+          "key": "C",
+          "text": "Rp2.750.600"
+        },
+        {
+          "key": "D",
+          "text": "Rp2.195.900"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 31,
+      "text": "Batas waktu pembayaran atau penyetoran PPh Pasal 15 yang harus dibayar sendiri adalah ….",
+      "options": [
+        {
+          "key": "A",
+          "text": "Paling lama tanggal 20 bulan berikutnya setelah masa pajak berakhir"
+        },
+        {
+          "key": "B",
+          "text": "Paling lama tanggal 15 bulan berikutnya setelah masa pajak berakhir   "
+        },
+        {
+          "key": "C",
+          "text": "Paling lama tanggal 25 bulan berikutnya setelah masa pajak berakhir"
+        },
+        {
+          "key": "D",
+          "text": "Paling lama tanggal 10 bulan berikutnya setelah masa pajak berakhir"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 32,
+      "text": "Berikut ini merupakan penghasilan yang dapat dikenai pajak bersifat final berdasarkan Pasal 4 ayat (2) UU PPh, kecuali ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bunga deposito"
+        },
+        {
+          "key": "B",
+          "text": "Warisan   "
+        },
+        {
+          "key": "C",
+          "text": "Hadiah undian"
+        },
+        {
+          "key": "D",
+          "text": "Bunga obligasi"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 33,
+      "text": "Kurniawan status menikah dan mempunyai satu anak, bekerja di pabrik yaitu PT Sejahtera. Kurniawan bekerja selama 10 hari dan menerima upah harian sebesar Rp500.000 per hari. Berapa PPh Pasal 21 yang harus dipotong PT Sejahtera atas penghasilan Kurniawan pada hari ke-10?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp143.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp140.000   "
+        },
+        {
+          "key": "C",
+          "text": "Rp142.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp141.000"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 34,
+      "text": "Penghasilan yang dipotong Pajak Penghasilan Pasal 26 adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Keuntungan karena pembebasan utang"
+        },
+        {
+          "key": "B",
+          "text": "Dividen"
+        },
+        {
+          "key": "C",
+          "text": "Premi swap dan transaksi lindung nilai lainnya"
+        },
+        {
+          "key": "D",
+          "text": "Semuanya benar   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 35,
+      "text": "PT Sirup Marhan adalah perusahaan yang bergerak di bidang industri minuman Sirup. Transaksi yang terjadi selama bulan Maret 2016, perusahaan menjual secara tunai 500 kemasan botol dengan harga Rp15.000 per botol dan membeli secara tunai bahan baku pembuatan sirup dan kemasan produk masing-masing sebesar Rp5.000.000 dan Rp7.500.000. Berapakah PPN masukan yang dapat dikreditkan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp1.350.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp1.000.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp1.150.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp1.250.000   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 36,
+      "text": "Pemungutan Pajak Bahan Bakar Kendaraan Bermotor dilakukan oleh produsen dan/atau importir atau nama lain sejenis atas bahan bakar yang disalurkan atau dijual kepada ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Semuanya benar"
+        },
+        {
+          "key": "B",
+          "text": "Stasiun Pengisian Bahan Bakar Umum (SPBU)"
+        },
+        {
+          "key": "C",
+          "text": "Konsumen Langsung"
+        },
+        {
+          "key": "D",
+          "text": "Lembaga Penyalur   "
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 37,
+      "text": "Berikut ini yang merupakan pemungut Pajak Penghasilan Pasal 22 adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Perwakilan perusahaan luar negeri lainnya"
+        },
+        {
+          "key": "B",
+          "text": "Orang pribadi sebagai Wajib Pajak Dalam Negeri yang ditunjuk Direktur Jenderal Pajak"
+        },
+        {
+          "key": "C",
+          "text": "Orang pribadi yang menjalankan usaha dan menyelenggarakan pembukuan"
+        },
+        {
+          "key": "D",
+          "text": "Bank Devisa dan Direktorat Jenderal Bea dan Cukai atas impor barang   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 38,
+      "text": "Batas waktu penyampaian SPT Masa PPN dan PPnBM-PKP adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Paling lama empat belas hari setelah masa pajak berakhir"
+        },
+        {
+          "key": "B",
+          "text": "Paling lama tujuh hari setelah akhir masa pajak"
+        },
+        {
+          "key": "C",
+          "text": "Paling lama akhir bulan berikutnya setelah masa pajak berakhir   "
+        },
+        {
+          "key": "D",
+          "text": "Paling lama dua puluh hari setelah masa pajak berakhir"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 39,
+      "text": "Tarif Pajak Penjualan atas Barang Mewah dikelompokkan dalam beberapa kelompok tarif, yaitu tarif paling rendah dan tarif paling tinggi. Tarif paling rendah sebesar ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "2,5%"
+        },
+        {
+          "key": "B",
+          "text": "15%"
+        },
+        {
+          "key": "C",
+          "text": "5%"
+        },
+        {
+          "key": "D",
+          "text": "10%   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 40,
+      "text": "Objek Pajak Pertambahan Nilai adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Semuanya benar   "
+        },
+        {
+          "key": "B",
+          "text": "Impor Barang Kena Pajak"
+        },
+        {
+          "key": "C",
+          "text": "Ekspor Barang Kena Pajak Berwujud oleh Pengusaha Kena Pajak"
+        },
+        {
+          "key": "D",
+          "text": "Pemanfaatan Barang Kena Pajak Tidak Berwujud dari luar Daerah Pabean di dalam Daerah Pabean"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 41,
+      "text": "PT Pertamina menyerahkan bahan bakar minyak senilai Rp200.000.000 (tidak termasuk PPN) kepada SPBU Pertamina. Berapakah PPh Pasal 22 yang harus dipungut?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp500.000   "
+        },
+        {
+          "key": "B",
+          "text": "Rp700.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp600.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp400.000"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 42,
+      "text": "PT Perkasa membeli peralatan mesin dengan harga Rp121.000.000 dari Toko Fajar. Jika tarif PPN yang digunakan sebesar 10%, berapakah PPN yang harus dipungut oleh PT Perkasa, jika harga sudah termasuk PPN?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp12.000.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp11.000.000   "
+        },
+        {
+          "key": "C",
+          "text": "Rp14.000.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp13.000.000"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 43,
+      "text": "Hartati status menikah memiliki tiga anak adalah seorang karyawati yang bekerja di PT Berdikari per Oktober 2024, dengan gaji sebulan sebesar Rp8.500.000. Hartati membayar iuran pensiun ke dana pensiun yang pendiriannya telah disahkan oleh Menteri Keuangan sebesar Rp50.000 sebulan. Berdasarkan surat keterangan dari Pemerintah Daerah tempat Hartati berdomisili yang diserahkan kepada pemberi kerja, diketahui bahwa suaminya tidak mempunyai penghasilan apa pun. Berapa Penghasilan Tidak Kena Pajak Hartati?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp72.000.000   "
+        },
+        {
+          "key": "B",
+          "text": "Rp54.000.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp63.000.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp115.000.000"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 44,
+      "text": "Berikut ini adalah penyerahan yang dikenakan tarif Pajak Pertambahan Nilai sebesar 10%, kecuali ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Penyerahan Barang Kena Pajak di dalam Daerah Pabean"
+        },
+        {
+          "key": "B",
+          "text": "Impor Barang Kena Pajak"
+        },
+        {
+          "key": "C",
+          "text": "Ekspor Barang Kena Pajak Tidak Berwujud   "
+        },
+        {
+          "key": "D",
+          "text": "Pemanfaatan Barang Kena Pajak Tidak Berwujud dari luar Daerah Pabean di dalam Daerah Pabean"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 45,
+      "text": "Dinas Perikanan Kota Makassar membeli mesin dengan harga Rp7.500.000 dari Toko Amanah dan perlengkapan kantor sebesar Rp250.000 dari Toko Fitrah. Tarif PPN 10%. Jika harga tidak termasuk PPN, Berapakah PPN yang harus dipungut oleh Bendahara Dinas Perikanan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp575.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp775.000   "
+        },
+        {
+          "key": "C",
+          "text": "Rp675.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp750.000"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 46,
+      "text": "PT Cendrawasih menyewa pesawat dari PT Nuri dengan biaya sewa/carter sebesar Rp100.000.000. PT Nuri merupakan perusahaan penerbangan dalam negeri. Berapakah PPh Pasal 15 terutang?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp1.800.000   "
+        },
+        {
+          "key": "B",
+          "text": "Rp1.500.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp1.600.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp1.700.000"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 47,
+      "text": "Berikut ini adalah jenis pajak penghasilan bersifat final menurut Pasal 4 ayat (2) UU Pajak Penghasilan, kecuali ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pengalihan hak atas tanah dan/atau bangunan"
+        },
+        {
+          "key": "B",
+          "text": "Persewaan tanah dan/atau bangunan"
+        },
+        {
+          "key": "C",
+          "text": "Usaha jasa konstruksi"
+        },
+        {
+          "key": "D",
+          "text": "Hadiah perlombaan   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 48,
+      "text": "Kalimat \"without reference to special benefit conferred\" adalah definisi pajak yang dikemukakan oleh ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "S. I. Djajadiningrat"
+        },
+        {
+          "key": "B",
+          "text": "Dr. N. J. Feldmann"
+        },
+        {
+          "key": "C",
+          "text": "Phillip E. Taylor"
+        },
+        {
+          "key": "D",
+          "text": "Prof Edwin R. A. Seligman   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 49,
+      "text": "Fungsi Surat Pemberitahuan bagi Pengusaha Kena Pajak adalah untuk melaporkan ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pengkreditan Pajak Masukan saja"
+        },
+        {
+          "key": "B",
+          "text": "Penghitungan sebagian PPnBM yang terutang"
+        },
+        {
+          "key": "C",
+          "text": "Pembayaran pajak yang telah dilaksanakan sendiri oleh Pengusaha Kena Pajak dan/atau melalui pihak lain dalam satu Masa Pajak   "
+        },
+        {
+          "key": "D",
+          "text": "Penghitungan sebagian PPN yang terutang"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 50,
+      "text": "Dasar hukum pemotongan pajak penghasilan atas Bunga Obligasi dan Surat Utang Negara adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Peraturan Pemerintah Nomor 123 Tahun 2015"
+        },
+        {
+          "key": "B",
+          "text": "Peraturan Pemerintah Nomor 132 Tahun 2000"
+        },
+        {
+          "key": "C",
+          "text": "Peraturan Pemerintah Nomor 15 Tahun 2009"
+        },
+        {
+          "key": "D",
+          "text": "Peraturan Pemerintah Nomor 100 Tahun 2013 tentang perubahan atas Peraturan Pemerintah Nomor 16 Tahun 2009   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 51,
+      "text": "Bank Mantap terdaftar sebagai Wajib Pajak pada KPP Pratama Surakarta sejak tanggal 1 April 2016. Perkiraan laporan keuangan April sampai dengan Juni 2016 menunjukkan penghasilan neto sebesar Rp90.000.000. Besarnya PPh Pasal 25 bulan April 2016 adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp7.000.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp7.500.000   "
+        },
+        {
+          "key": "C",
+          "text": "Rp8.500.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp9.000.000"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 52,
+      "text": "Ansar Dahlan mempunyai objek pajak berupa tanah seluas 850 m2 dengan harga jual Rp250.000/m2, bangunan seluas 500 m2 dengan nilai jual Rp300.000/m2. NJOPTKP ditetapkan sebesar Rp10.000.000. Tarif PBB ditetapkan 0,2%. Berapakah besarnya Pajak Bumi dan Bangunan (PBB) terutang?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp780.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp705.000   "
+        },
+        {
+          "key": "C",
+          "text": "Rp480.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp580.000"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 53,
+      "text": "Pada bulan Maret 2017, Koperasi Serba Usaha membayar bunga simpanan koperasi sebesar Rp750.000 kepada Ridwan Hasan yang tercatat sebagai anggota koperasi. Berapa PPh final yang harus dipotong oleh koperasi atas pembayaran bunga simpanan koperasi tersebut?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp75.000   "
+        },
+        {
+          "key": "B",
+          "text": "Rp50.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp25.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp175.000"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 54,
+      "text": "Adi Hanif membeli tanah dan bangunan di Sukun, Malang dengan Nilai Perolehan Objek Pajak sebesar Rp318.000.000. Nilai Jual Objek Pajak PBB tersebut yang digunakan dalam pengenaan PBB sebesar Rp285.000.000. Nilai Perolehan Objek Pajak Tidak Kena Pajak untuk Kota Malang ditetapkan sebesar Rp60.000.000. Besarnya Pajak (BPHTB) terutang adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp12.900.000   "
+        },
+        {
+          "key": "B",
+          "text": "Rp15.900.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp10.900.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp14.250.000"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 55,
+      "text": "Surat Ketetapan Pajak yang menentukan jumlah pokok pajak sama besarnya dengan jumlah kredit pajak atau pajak tidak terutang dan tidak ada kredit pajak adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Surat Ketetapan Pajak Nihil   "
+        },
+        {
+          "key": "B",
+          "text": "Surat Ketetapan Pajak Kurang Bayar"
+        },
+        {
+          "key": "C",
+          "text": "Surat Tagihan Pajak"
+        },
+        {
+          "key": "D",
+          "text": "Surat Pemberitahuan"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 56,
+      "text": "Surat ketetapan yang meliputi Surat Ketetapan Pajak Kurang Bayar, Surat Ketetapan Pajak Kurang Bayar Tambahan, Surat Ketetapan Pajak Nihil, atau Surat Ketetapan Pajak Lebih Bayar disebut .…",
+      "options": [
+        {
+          "key": "A",
+          "text": "Surat Tagihan Pajak"
+        },
+        {
+          "key": "B",
+          "text": "Surat Sita"
+        },
+        {
+          "key": "C",
+          "text": "Surat Ketetapan Pajak   "
+        },
+        {
+          "key": "D",
+          "text": "Surat Pemberitahuan"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 57,
+      "text": "Sebuah mesin dibeli dan ditempatkan pada bulan Januari 2015 dengan harga perolehan sebesar Rp300.000.000. Masa manfaat mesin tersebut adalah empat tahun. Jika menggunakan metode saldo menurun dan tarif penyusutan ditetapkan 50%, berapa biaya penyusutan di tahun 2016?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp85.000.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp100.000.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp95.000.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp75.000.000   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 58,
+      "text": "Ridwan status belum kawin tanpa tanggungan bekerja sebagai pegawai harian lepas di PT Tornado. Ridwan bekerja selama 14 hari dan menerima upah harian sebesar Rp450.000. Berapa PPh yang harus dipotong pada hari ke-1?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Nihil   "
+        },
+        {
+          "key": "B",
+          "text": "Rp7.500"
+        },
+        {
+          "key": "C",
+          "text": "Rp2.500"
+        },
+        {
+          "key": "D",
+          "text": "Rp5.000"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 59,
+      "text": "PT Melati menyampaikan permohonan perpanjangan waktu penyampaian SPT Tahunan tahun pajak 2016 pada tanggal 15 Januari 2017, dengan menyampaikan perhitungan sementara PPh terutang tahun 2016 Rp250.000.000. PPh Pasal 22 dan 23 yang dapat dikreditkan masing- masing Rp55.000.000 dan Rp60.000.000. Angsuran PPh Pasal 25 masa Desember 2016 sebesar Rp4.000.000. SPT Tahunan tahun pajak 2016 disampaikan pada tanggal 30 Juni 2017, dengan data sesungguhnya PPh terutang Rp295.000.000. Besarnya angsuran PPh Pasal 25 untuk masa April sampai dengan Desember 2017 berdasarkan perhitungan sesungguhnya adalah sebesar....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp17.000.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp18.000.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp16.000.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp15.000.000   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 60,
+      "text": "PT Samudera terdaftar sebagai Wajib Pajak sejak tanggal 1 Februari 2016. Menurut pembukuan bulan Februari peredaran usaha bruto sebesar Rp200.000.000 dan penghasilan neto sebesar Rp50.000.000. Berapakah angsuran PPh Pasal 25 bulan Maret 2016?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp12.500.000   "
+        },
+        {
+          "key": "B",
+          "text": "Rp14.500.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp13.500.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp11.500.000"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 61,
+      "text": "Ardan Qodri status menikah dan mempunyai satu anak, bekerja di PT Nusa Indah dengan memperoleh gaji sebulan sebesar Rp8.000.000 dan penghasilan dalam bentuk natura berupa beras 50 kg. Harga pasar beras pada saat itu sebesar Rp25.000. PT Nusa Indah terdaftar sebagai Wajib Pajak di KPP Pratama Bandung. PPh Pasal 21 yang harus dipotong sebulan adalah sebesar ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp182.625"
+        },
+        {
+          "key": "B",
+          "text": "Rp185.745"
+        },
+        {
+          "key": "C",
+          "text": "Rp176.875   "
+        },
+        {
+          "key": "D",
+          "text": "Rp170.935"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 62,
+      "text": "Pengertian Pengusaha Kena Pajak menurut UU Pajak Pertambahan Nilai adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Orang Pribadi"
+        },
+        {
+          "key": "B",
+          "text": "Pengusaha kecil"
+        },
+        {
+          "key": "C",
+          "text": "Pengusaha yang melakukan penyerahan Barang Kena Pajak dan/atau penyerahan Jasa Kena Pajak   "
+        },
+        {
+          "key": "D",
+          "text": "Pedagang Ritel"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 63,
+      "text": "Berikut ini yang merupakan pengertian Penyerahan Barang Kena Pajak adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Setiap kegiatan pelayanan yang berdasarkan suatu perikatan atau perbuatan hukum"
+        },
+        {
+          "key": "B",
+          "text": "Setiap kegiatan penyerahan Barang Kena Pajak   "
+        },
+        {
+          "key": "C",
+          "text": "Kegiatan pemanfaatan barang berwujud"
+        },
+        {
+          "key": "D",
+          "text": "Kegiatan pemanfaatan barang tidak berwujud"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 64,
+      "text": "Batas waktu pembayaran PPh Pasal 25 adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Paling lama tanggal 15 bulan berikutnya setelah masa pajak berakhir   "
+        },
+        {
+          "key": "B",
+          "text": "Paling lama akhir bulan berikutnya setelah masa pajak berakhir"
+        },
+        {
+          "key": "C",
+          "text": "Paling lama tanggal 15 bulan berikutnya setelah saat terutangnya pajak"
+        },
+        {
+          "key": "D",
+          "text": "Paling lama tanggal 10 bulan berikutnya setelah masa pajak berakhir"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 65,
+      "text": "Yang dimaksud dengan Pemanfaatan Jasa Kena Pajak dari luar Daerah Pabean adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Setiap kegiatan pemanfaatan Jasa Kena Pajak dari luar Daerah Pabean di dalam Daerah Pabean   "
+        },
+        {
+          "key": "B",
+          "text": "Setiap kegiatan penyerahan Jasa Kena Pajak"
+        },
+        {
+          "key": "C",
+          "text": "Setiap kegiatan pengalihan Jasa Kena Pajak di dalam Daerah Pabean"
+        },
+        {
+          "key": "D",
+          "text": "Setiap kegiatan pengalihan Jasa Kena Pajak dari luar Daerah Pabean"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 66,
+      "text": "Berdasarkan Surat Pemberitahuan Tahunan, Pajak Penghasilan terutang Hakim pada tahun 2016 adalah sebesar Rp50.000.000. Pajak yang telah dipotong oleh pihak ketiga serta dibayar diluar negeri adalah sebagai berikut: Pemotongan PPh Pasal 21 melalui pemberi kerja sebesar Rp15.000.000, Pemotongan PPh Pasal 22 oleh pihak lain sebesar Rp10.000.000, Pemotongan PPh Pasal 23 penyelenggara kegiatan sebesar Rp2.500.000, Pembayaran pajak di luar negeri sebesar Rp7.500.000 (PPh Pasal 24). Angsuran bulanan PPh Pasal 25 untuk Tahun 2017 adalah sebesar....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp1.000.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp1.250.000   "
+        },
+        {
+          "key": "C",
+          "text": "Rp1.500.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp750.000"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 67,
+      "text": "Tarif Pajak Penghasilan Pasal 15 atas Penghasilan Wajib Pajak Perusahaan Pelayaran dan/atau Penerbangan Luar Negeri adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "3,75% dari peredaran bruto"
+        },
+        {
+          "key": "B",
+          "text": "4,25% dari peredaran bruto"
+        },
+        {
+          "key": "C",
+          "text": "3,50% dari peredaran bruto"
+        },
+        {
+          "key": "D",
+          "text": "2,64% dari peredaran bruto   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 68,
+      "text": "Pada bulan Agustus 2024, seorang pemain bulutangkis profesional menjuarai Indonesia Open dan menerima hadiah sebesar Rp200.000.000. PPh Pasal 21 yang harus dipotong atas hadiah tersebut adalah sebesar ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp5.000.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp30.000.000   "
+        },
+        {
+          "key": "C",
+          "text": "Rp15.000.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp35.000.000"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 69,
+      "text": "Batas waktu penyampaian SPT Masa PPh Pasal 22 dipungut bendahara adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "12 hari setelah masa pajak berakhir"
+        },
+        {
+          "key": "B",
+          "text": "14 hari setelah masa pajak berakhir   "
+        },
+        {
+          "key": "C",
+          "text": "10 hari setelah masa pajak berakhir"
+        },
+        {
+          "key": "D",
+          "text": "11 hari setelah masa pajak berakhir"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 70,
+      "text": "Berikut ini adalah contoh fungsi pajak sebagai fungsi mengatur, kecuali ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Memberikan insentif pajak untuk peningkatan investasi"
+        },
+        {
+          "key": "B",
+          "text": "Pengenaan PPN atas barang yang dikonsumsi di dalam negeri   "
+        },
+        {
+          "key": "C",
+          "text": "Pengenaan pajak nol persen atas barang yang diekspor"
+        },
+        {
+          "key": "D",
+          "text": "Pengenaan pajak yang tinggi terhadap minuman keras"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 71,
+      "text": "Berikut ini adalah tarif dan Dasar Pengenaan Pajak Penghasilan atas Bunga dari obligasi dengan kupon, kecuali ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "15% bagi Wajib Pajak dalam negeri dari jumlah bruto bunga sesuai dengan masa kepemilikan obligasi"
+        },
+        {
+          "key": "B",
+          "text": "15% bagi Wajib Pajak dalam negeri dan Bentuk Usaha Tetap dari jumlah bruto bunga sesuai dengan masa kepemilikan obligasi"
+        },
+        {
+          "key": "C",
+          "text": "15% bagi Wajib Pajak dalam negeri dari selisih lebih harga jual atau nilai nominal di atas harga perolehan obligasi   "
+        },
+        {
+          "key": "D",
+          "text": "20% atau sesuai dengan tarif berdasarkan P3B bagi Wajib Pajak luar negeri selain Bentuk Usaha Tetap dari jumlah bruto bunga sesuai"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 72,
+      "text": "Subjek Pajak atau penerima penghasilan yang dipotong PPh Pasal 21 adalah ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "Orang Pribadi Penerima hadiah"
+        },
+        {
+          "key": "B",
+          "text": "Orang Pribadi yang menjalankan usaha sewa"
+        },
+        {
+          "key": "C",
+          "text": "Orang Pribadi yang merupakan pegawai   "
+        },
+        {
+          "key": "D",
+          "text": "Orang Pribadi bukan pegawai dan tidak menerima atau memperoleh penghasilan sehubungan dengan pekerjaan"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 73,
+      "text": "Berdasarkan Peraturan Pemerintah Nomor 34 Tahun 2016, besarnya tarif PPh atas pengalihan hak atas tanah dan/atau bangunan kepada pemerintah, Badan Usaha Milik Negara yang mendapat penugasan khusus dari Pemerintah, atau Badan Usaha Milik Daerah yang mendapat penugasan khusus dari kepala daerah adalah sebesar ....",
+      "options": [
+        {
+          "key": "A",
+          "text": "2,5%"
+        },
+        {
+          "key": "B",
+          "text": "2%"
+        },
+        {
+          "key": "C",
+          "text": "0%   "
+        },
+        {
+          "key": "D",
+          "text": "1%"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 74,
+      "text": "Penghasilan PT Mahakam tahun 2016 Rp200.000.000. Sisa kerugian tahun sebelumnya yang masih dapat dikompensasikan Rp120.000.000. Sisa kerugian yang belum dikompensasikan tahun 2016 Rp50.000.000. Berapakah besarnya angsuran PPh Pasal 25 bulanan tahun 2017?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp4.225.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp4.125.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp3.225.000"
+        },
+        {
+          "key": "D",
+          "text": "Rp3.125.000   "
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 75,
+      "text": "Ahmad Yani status belum menikah pada bulan Agustus 2017 bekerja sebagai buruh harian di PT Angkasa. Ahmad Yani bekerja selama 10 hari dan menerima upah harian sebesar Rp650.000 per hari. Berapa PPh Pasal 21 yang harus dipotong PT. Angkasa atas penghasilan Ahmad Yani pada hari ke-7?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rp120.000"
+        },
+        {
+          "key": "B",
+          "text": "Rp130.000"
+        },
+        {
+          "key": "C",
+          "text": "Rp115.000   "
+        },
+        {
+          "key": "D",
+          "text": "Rp125.000"
+        }
+      ],
+      "answer": "C"
+    }
+  ]
+}
