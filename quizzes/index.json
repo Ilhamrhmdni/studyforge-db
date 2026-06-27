@@ -1,1 +1,14 @@
-{"quizzes":[],"totalResults":0}
+{
+  "quizzes": [
+    {
+      "id": "quiz-1782593611488",
+      "title": "Try Out Set B_ MANAGEMENT_VERSI 2",
+      "subject": "MANAGEMENT",
+      "description": "",
+      "duration": 120,
+      "count": 1,
+      "createdAt": "2026-06-27T20:53:31.488Z"
+    }
+  ],
+  "totalResults": 0
+}
