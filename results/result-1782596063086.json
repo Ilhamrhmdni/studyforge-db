@@ -1,0 +1,37 @@
+{
+  "id": "result-1782596063086",
+  "quizId": "quiz-1782593611488",
+  "quizTitle": "Try Out Set B_ MANAGEMENT_VERSI 2",
+  "userName": "ilham",
+  "score": 100,
+  "correct": 1,
+  "total": 1,
+  "timeTaken": 23,
+  "submittedAt": "2026-06-27T21:34:23.086Z",
+  "answers": [
+    {
+      "question": "Pertanyaan baru",
+      "options": [
+        {
+          "key": "A",
+          "text": "Opsi A"
+        },
+        {
+          "key": "B",
+          "text": "Opsi B"
+        },
+        {
+          "key": "C",
+          "text": "Opsi C"
+        },
+        {
+          "key": "D",
+          "text": "Opsi D"
+        }
+      ],
+      "correctAnswer": "A",
+      "userAnswer": "A",
+      "isCorrect": true
+    }
+  ]
+}
