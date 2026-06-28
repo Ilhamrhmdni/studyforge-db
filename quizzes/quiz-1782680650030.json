@@ -1,0 +1,2771 @@
+{
+  "id": "quiz-1782680650030",
+  "title": "ECON4102_Format_Soal_Kunci",
+  "subject": "Umum",
+  "description": "",
+  "duration": 120,
+  "count": 120,
+  "createdAt": "2026-06-28T21:04:10.030Z",
+  "questions": [
+    {
+      "num": 1,
+      "text": "Hukum hasil yang semakin menurun (law of diminishing return) menyatakan bahwa....",
+      "options": [
+        {
+          "key": "A",
+          "text": "setiap tambahan unit input akan meningkatkan output dengan jumlah yang sama"
+        },
+        {
+          "key": "B",
+          "text": "setiap tambahan unit input akan menghasilkan peningkatan output yang semakin menurun"
+        },
+        {
+          "key": "C",
+          "text": "penurunan input akan meningkatkan output"
+        },
+        {
+          "key": "D",
+          "text": "setiap tambahan unit input akan menghasilkan penurunan total output"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 2,
+      "text": "Elastisitas permintaan harga mengukur....",
+      "options": [
+        {
+          "key": "A",
+          "text": "bagaimana jumlah permintaan berubah ketika harga barang tersebut berubah"
+        },
+        {
+          "key": "B",
+          "text": "bagaimana jumlah permintaan berubah ketika harga barang lain berubah"
+        },
+        {
+          "key": "C",
+          "text": "bagaimana jumlah permintaan berubah ketika pendapatan berubah"
+        },
+        {
+          "key": "D",
+          "text": "bagaimana harga barang berubah ketika jumlah permintaan berubah"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 3,
+      "text": "Contoh biaya tetap dalam produksi jangka pendek adalah biaya….",
+      "options": [
+        {
+          "key": "A",
+          "text": "biaya bahan baku"
+        },
+        {
+          "key": "B",
+          "text": "biaya tenaga kerja"
+        },
+        {
+          "key": "C",
+          "text": "biaya sewa gedung"
+        },
+        {
+          "key": "D",
+          "text": "biaya transportasi produk"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 4,
+      "text": "Yang merupakan cara untuk meminimumkan biaya dalam jangka panjang adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "meningkatkan produksi tanpa mempertimbangkan efisiensi"
+        },
+        {
+          "key": "B",
+          "text": "mengadopsi teknologi yang paling mutakhir tanpa mempertimbangkan biayanya"
+        },
+        {
+          "key": "C",
+          "text": "mengoptimalkan kombinasi input untuk mencapai tingkat output yang diinginkan"
+        },
+        {
+          "key": "D",
+          "text": "selalu memilih bahan baku dengan harga termurah tanpa mempertimbangkan kualitas"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 5,
+      "text": "Contoh produk di pasar persaingan monopolistik adalah....",
+      "options": [
+        {
+          "key": "A",
+          "text": "listrik"
+        },
+        {
+          "key": "B",
+          "text": "pasta gigi"
+        },
+        {
+          "key": "C",
+          "text": "minyak bumi"
+        },
+        {
+          "key": "D",
+          "text": "padi"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 6,
+      "text": "Sebuah perusahaan dikatakan telah mencapai efisiensi teknis ketika….",
+      "options": [
+        {
+          "key": "A",
+          "text": "perusahaan menghasilkan output maksimum dengan input tertentu"
+        },
+        {
+          "key": "B",
+          "text": "perusahaan mengurangi biaya produksi"
+        },
+        {
+          "key": "C",
+          "text": "output perusahaan sesuai dengan permintaan pasar"
+        },
+        {
+          "key": "D",
+          "text": "perusahaan menggunakan teknologi terbaru dalam produksinya"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 7,
+      "text": "Yang diwakili oleh kurva produksi rata-rata adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "hubungan antara output total dan jumlah unit input"
+        },
+        {
+          "key": "B",
+          "text": "rata-rata produksi per unit input"
+        },
+        {
+          "key": "C",
+          "text": "perubahan output dari penambahan satu unit input"
+        },
+        {
+          "key": "D",
+          "text": "biaya rata-rata produksi"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 8,
+      "text": "Dalam monopoli, hubungan antara TR, AR, dan MR adalah....",
+      "options": [
+        {
+          "key": "A",
+          "text": "TR = AR + MR"
+        },
+        {
+          "key": "B",
+          "text": "TR = AR × MR"
+        },
+        {
+          "key": "C",
+          "text": "AR > MR"
+        },
+        {
+          "key": "D",
+          "text": "AR = MR"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 9,
+      "text": "Efek pendapatan memengaruhi keputusan konsumen dengan….",
+      "options": [
+        {
+          "key": "A",
+          "text": "menggambarkan perubahan jumlah barang yang dibeli karena perubahan pendapatan"
+        },
+        {
+          "key": "B",
+          "text": "menggambarkan perubahan jumlah barang yang dibeli karena perubahan harga barang itu sendiri"
+        },
+        {
+          "key": "C",
+          "text": "menggambarkan perubahan kepuasan karena perubahan harga barang"
+        },
+        {
+          "key": "D",
+          "text": "menggambarkan perubahan kepuasan karena perubahan kualitas barang"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 10,
+      "text": "Pemerintah biasanya mencampuri pengelolaan energi dengan….",
+      "options": [
+        {
+          "key": "A",
+          "text": "membeli seluruh energi untuk distribusi ulang ECON4102 - Format Soal dan Kunci Jawaban"
+        },
+        {
+          "key": "B",
+          "text": "menetapkan standar emisi dan regulasi lainnya untuk produksi energi"
+        },
+        {
+          "key": "C",
+          "text": "membatasi konsumsi energi oleh masyarakat"
+        },
+        {
+          "key": "D",
+          "text": "menghentikan produksi energi yang tidak populer"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 11,
+      "text": "Dalam konteks perusahaan energi, makna dari nilai netback adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "laba bersih yang diperoleh setelah dipotong semua biaya operasional"
+        },
+        {
+          "key": "B",
+          "text": "harga jual dikurangi dengan biaya produksi dan distribusi"
+        },
+        {
+          "key": "C",
+          "text": "laba yang diperoleh setelah dipotong biaya pajak dan keuangan"
+        },
+        {
+          "key": "D",
+          "text": "selisih antara harga jual di pasar internasional dengan harga jual domestik"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 12,
+      "text": "Posisi konsumen pada kurva indiferens saat mencapai tingkat kepuasan maksimum adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "pada titik di mana budget line menyentuh kurva indiferens"
+        },
+        {
+          "key": "B",
+          "text": "pada titik di mana kurva indiferensi berada jauh dari budget line"
+        },
+        {
+          "key": "C",
+          "text": "di puncak kurva indiferens"
+        },
+        {
+          "key": "D",
+          "text": "di dasar kurva indiferens"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 13,
+      "text": "Variable factor of production adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "faktor produksi yang selalu konstan dalam jangka panjang"
+        },
+        {
+          "key": "B",
+          "text": "faktor produksi yang selalu variabel dalam jumlahnya"
+        },
+        {
+          "key": "C",
+          "text": "faktor produksi yang tidak dapat disesuaikan dalam jangka pendek"
+        },
+        {
+          "key": "D",
+          "text": "faktor produksi yang dapat disesuaikan dalam jangka pendek"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 14,
+      "text": "Bentuk kurva permintaan untuk jenis barang Giffen adalah ….",
+      "options": [
+        {
+          "key": "A",
+          "text": "menanjak ke atas dari kiri ke kanan"
+        },
+        {
+          "key": "B",
+          "text": "menurun dari kiri ke kanan"
+        },
+        {
+          "key": "C",
+          "text": "horizontal"
+        },
+        {
+          "key": "D",
+          "text": "vertikal"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 15,
+      "text": "Asumsi utama dari pasar persaingan sempurna adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "setiap pembeli memiliki informasi sempurna tentang produk"
+        },
+        {
+          "key": "B",
+          "text": "tidak ada biaya transaksi"
+        },
+        {
+          "key": "C",
+          "text": "ada hambatan masuk ke pasar"
+        },
+        {
+          "key": "D",
+          "text": "produk yang dijual bersifat unik"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 16,
+      "text": "Energi yang dianggap sebagai energi primer karena ditemukan di alam dan belum melalui proses konversi atau transformasi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "baterai"
+        },
+        {
+          "key": "B",
+          "text": "listrik"
+        },
+        {
+          "key": "C",
+          "text": "gasoline"
+        },
+        {
+          "key": "D",
+          "text": "kayu bakar"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 17,
+      "text": "Yang dimaksud dengan ketidaksempurnaan kelembagaan adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "adanya kebijakan pemerintah yang sempurna"
+        },
+        {
+          "key": "B",
+          "text": "situasi di mana lembaga keuangan memiliki modal yang berlebih"
+        },
+        {
+          "key": "C",
+          "text": "kegagalan atau hambatan dalam sistem dan struktur kelembagaan yang menghalangi optimalisasi fungsi pasar"
+        },
+        {
+          "key": "D",
+          "text": "proses di mana kelembagaan selalu mendominasi sektor swasta"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 18,
+      "text": "Yang bukan elemen dalam menentukan penawaran tenaga kerja adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "tingkat upah yang berlaku"
+        },
+        {
+          "key": "B",
+          "text": "kualifikasi pendidikan"
+        },
+        {
+          "key": "C",
+          "text": "jumlah jam kerja yang diinginkan"
+        },
+        {
+          "key": "D",
+          "text": "harga saham perusahaan"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 19,
+      "text": "Kritik utama terhadap sistem harga adalah....",
+      "options": [
+        {
+          "key": "A",
+          "text": "cenderung memfavoritkan konsumen"
+        },
+        {
+          "key": "B",
+          "text": "dapat mengarah pada pemborosan sumber daya"
+        },
+        {
+          "key": "C",
+          "text": "mengurangi keuntungan perusahaan"
+        },
+        {
+          "key": "D",
+          "text": "terlalu kompleks untuk dipahami"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 20,
+      "text": "Faktor yang paling berkontribusi pada perubahan produktivitas adalah…. ECON4102 - Format Soal dan Kunci Jawaban",
+      "options": [
+        {
+          "key": "A",
+          "text": "kenaikan gaji karyawan"
+        },
+        {
+          "key": "B",
+          "text": "inovasi teknologi dan pelatihan karyawan"
+        },
+        {
+          "key": "C",
+          "text": "harga produk di pasar internasional"
+        },
+        {
+          "key": "D",
+          "text": "jumlah kompetitor di pasar"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 21,
+      "text": "Yang diindikasikan oleh koefisien Gini ketika mendekati angka 1 adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "ketidaksetaraan pendapatan rendah di masyarakat"
+        },
+        {
+          "key": "B",
+          "text": "ketidaksetaraan pendapatan tinggi di masyarakat"
+        },
+        {
+          "key": "C",
+          "text": "semua penduduk memiliki pendapatan yang sama"
+        },
+        {
+          "key": "D",
+          "text": "sebagian besar penduduk memiliki pendapatan di bawah rata-rata"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 22,
+      "text": "Biaya eksternalitas adalah....",
+      "options": [
+        {
+          "key": "A",
+          "text": "keuntungan tambahan dari suatu kegiatan ekonomi"
+        },
+        {
+          "key": "B",
+          "text": "biaya yang ditanggung oleh perusahaan"
+        },
+        {
+          "key": "C",
+          "text": "biaya yang mempengaruhi pihak ketiga yang tidak terlibat dalam transaksi"
+        },
+        {
+          "key": "D",
+          "text": "keuntungan yang diperoleh konsumen dari pembelian barang"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 23,
+      "text": "Contoh barang dalam pasar oligopoli adalah....",
+      "options": [
+        {
+          "key": "A",
+          "text": "gandum"
+        },
+        {
+          "key": "B",
+          "text": "minyak"
+        },
+        {
+          "key": "C",
+          "text": "pakaian"
+        },
+        {
+          "key": "D",
+          "text": "sayuran"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 24,
+      "text": "Yang dimaksud dengan kondisi pulang pokok adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "pendapatan total sama dengan biaya total"
+        },
+        {
+          "key": "B",
+          "text": "pendapatan total lebih besar dari biaya total"
+        },
+        {
+          "key": "C",
+          "text": "pendapatan total lebih kecil dari biaya total"
+        },
+        {
+          "key": "D",
+          "text": "biaya total nol"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 25,
+      "text": "Yang terjadi jika Marginal Revenue Product (MRP) lebih besar dari biaya tenaga kerja adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "perusahaan akan mengurangi jumlah tenaga kerja"
+        },
+        {
+          "key": "B",
+          "text": "perusahaan akan menaikkan gaji tenaga kerja"
+        },
+        {
+          "key": "C",
+          "text": "perusahaan akan mempekerjakan lebih banyak tenaga kerja"
+        },
+        {
+          "key": "D",
+          "text": "perusahaan akan mempertahankan jumlah tenaga kerja saat ini"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 26,
+      "text": "Sebuah perusahaan dianggap memperoleh keuntungan maksimum ketika….",
+      "options": [
+        {
+          "key": "A",
+          "text": "pendapatan total melebihi biaya total sebanyak mungkin"
+        },
+        {
+          "key": "B",
+          "text": "produksi pada tingkat output dimana MC = MR"
+        },
+        {
+          "key": "C",
+          "text": "biaya produksi minimal"
+        },
+        {
+          "key": "D",
+          "text": "harga produk di pasar tertinggi"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 27,
+      "text": "Dengan menggunakan kurva MR dan MC kondisi ekuilibrium adalah....",
+      "options": [
+        {
+          "key": "A",
+          "text": "MC > MR"
+        },
+        {
+          "key": "B",
+          "text": "MC = MR"
+        },
+        {
+          "key": "C",
+          "text": "MC < MR"
+        },
+        {
+          "key": "D",
+          "text": "MC dan MR tidak berkaitan satu sama lain"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 28,
+      "text": "Contoh produk yang dijual dalam pasar persaingan monopolistik adalah....",
+      "options": [
+        {
+          "key": "A",
+          "text": "gandum"
+        },
+        {
+          "key": "B",
+          "text": "minyak mentah"
+        },
+        {
+          "key": "C",
+          "text": "restoran cepat saji"
+        },
+        {
+          "key": "D",
+          "text": "listrik"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 29,
+      "text": "Dalam kondisi ekuilibrium perusahaan jangka pendek, perusahaan mencapai titik di mana....",
+      "options": [
+        {
+          "key": "A",
+          "text": "MC = MR"
+        },
+        {
+          "key": "B",
+          "text": "MC > MR"
+        },
+        {
+          "key": "C",
+          "text": "MR > MC"
+        },
+        {
+          "key": "D",
+          "text": "MC = TC"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 30,
+      "text": "Perilaku kurva permintaan pasar tergantung pada….",
+      "options": [
+        {
+          "key": "A",
+          "text": "bagaimana konsumen merespon perubahan harga ECON4102 - Format Soal dan Kunci Jawaban"
+        },
+        {
+          "key": "B",
+          "text": "biaya produksi"
+        },
+        {
+          "key": "C",
+          "text": "jumlah produsen di pasar"
+        },
+        {
+          "key": "D",
+          "text": "ketersediaan substitusi"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 31,
+      "text": "Yang dimaksud dengan keseimbangan umum input-output adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "penyeimbangan antara total input dan output dalam suatu perekonomian"
+        },
+        {
+          "key": "B",
+          "text": "hubungan di mana setiap input memiliki output yang sesuai"
+        },
+        {
+          "key": "C",
+          "text": "keseimbangan di mana tidak ada surplus atau kekurangan dalam produksi"
+        },
+        {
+          "key": "D",
+          "text": "model matematika yang menggambarkan hubungan antara konsumsi dan produksi"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 32,
+      "text": "Dalam pasar persaingan sempurna jangka panjang, ekuilibrium dicapai ketika....",
+      "options": [
+        {
+          "key": "A",
+          "text": "MC = MR"
+        },
+        {
+          "key": "B",
+          "text": "MC > MR"
+        },
+        {
+          "key": "C",
+          "text": "MC < MR"
+        },
+        {
+          "key": "D",
+          "text": "harga = biaya rata-rata minimum (P = AR = MR = MC = minimum LAC)"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 33,
+      "text": "Tujuan utama dari regulasi antitrust adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "mengizinkan perusahaan untuk membentuk monopoli"
+        },
+        {
+          "key": "B",
+          "text": "meningkatkan harga untuk meningkatkan keuntungan perusahaan"
+        },
+        {
+          "key": "C",
+          "text": "mendorong persaingan dan mencegah praktik bisnis yang merugikan konsumen"
+        },
+        {
+          "key": "D",
+          "text": "mengurangi jumlah perusahaan di industri tertentu"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 34,
+      "text": "Permintaan dalam ekonomi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "jumlah barang atau jasa yang dijual di pasar"
+        },
+        {
+          "key": "B",
+          "text": "harga suatu barang di pasar"
+        },
+        {
+          "key": "C",
+          "text": "jumlah barang atau jasa yang diinginkan konsumen pada berbagai tingkat harga"
+        },
+        {
+          "key": "D",
+          "text": "kemampuan seseorang untuk membeli barang atau jasa"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 35,
+      "text": "Pada kurva permintaan dan penawaran, kondisi yang menggambarkan excess demand (kelebihan permintaan) adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "jumlah barang yang diminta sama dengan jumlah barang yang ditawarkan"
+        },
+        {
+          "key": "B",
+          "text": "jumlah barang yang diminta lebih banyak daripada jumlah barang yang ditawarkan"
+        },
+        {
+          "key": "C",
+          "text": "jumlah barang yang ditawarkan lebih banyak daripada jumlah barang yang diminta"
+        },
+        {
+          "key": "D",
+          "text": "kedua kurva tidak saling berpotongan"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 36,
+      "text": "Jika harga barang menurun, yang terjadi pada kurva penawaran adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "bergerak ke kiri"
+        },
+        {
+          "key": "B",
+          "text": "bergerak ke kanan"
+        },
+        {
+          "key": "C",
+          "text": "bergerak ke atas sepanjang kurva"
+        },
+        {
+          "key": "D",
+          "text": "bergerak ke bawah sepanjang kurva"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 37,
+      "text": "Dari pilihan berikut yang bukan merupakan faktor yang memengaruhi penawaran adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "biaya produksi"
+        },
+        {
+          "key": "B",
+          "text": "teknologi produksi"
+        },
+        {
+          "key": "C",
+          "text": "pendapatan konsumen"
+        },
+        {
+          "key": "D",
+          "text": "harga input atau bahan baku"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 38,
+      "text": "Salah satu alasan mendasar mengapa masalah ekonomi muncul adalah karena….",
+      "options": [
+        {
+          "key": "A",
+          "text": "keinginan manusia yang tidak terbatas"
+        },
+        {
+          "key": "B",
+          "text": "ketersediaan sumber daya yang berlimpah"
+        },
+        {
+          "key": "C",
+          "text": "efisiensi produksi yang tinggi di setiap negara"
+        },
+        {
+          "key": "D",
+          "text": "distribusi pendapatan yang merata"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 39,
+      "text": "Yang dimaksud dengan teori ekonomi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "studi tentang bagaimana negara menghasilkan uang"
+        },
+        {
+          "key": "B",
+          "text": "sekumpulan asumsi dan prinsip yang menjelaskan perilaku ekonomi"
+        },
+        {
+          "key": "C",
+          "text": "teknik penghitungan keuntungan dan kerugian"
+        },
+        {
+          "key": "D",
+          "text": "metode pengukuran kemakmuran suatu negara"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 40,
+      "text": "Jika pada diagram alur perekonomian diberikan arah dari rumah tangga menuju perusahaan, hal ini menunjukkan aliran…. ECON4102 - Format Soal dan Kunci Jawaban",
+      "options": [
+        {
+          "key": "A",
+          "text": "faktor produksi"
+        },
+        {
+          "key": "B",
+          "text": "pajak"
+        },
+        {
+          "key": "C",
+          "text": "barang dan jasa"
+        },
+        {
+          "key": "D",
+          "text": "pendapatan"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 41,
+      "text": "Kurva indiferens adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "garis yang menggambarkan batas pengeluaran konsumen"
+        },
+        {
+          "key": "B",
+          "text": "garis yang menggambarkan kombinasi dua barang yang memberikan kepuasan yang sama"
+        },
+        {
+          "key": "C",
+          "text": "garis yang menggambarkan relasi antara harga barang dengan jumlah yang diminta"
+        },
+        {
+          "key": "D",
+          "text": "kurva yang menggambarkan relasi antara pendapatan dengan jumlah permintaan"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 42,
+      "text": "Apabila perubahan harga barang menghasilkan perubahan persentase yang lebih besar dalam jumlah yang ditawarkan, elastisitas penawaran dikatakan....",
+      "options": [
+        {
+          "key": "A",
+          "text": "elastis sempurna"
+        },
+        {
+          "key": "B",
+          "text": "elastis"
+        },
+        {
+          "key": "C",
+          "text": "tidak elastis"
+        },
+        {
+          "key": "D",
+          "text": "elastisitas satuan"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 43,
+      "text": "Dari pilihan berikut ini yang merupakan komponen dari kurva biaya total adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "biaya tetap, biaya variabel, dan biaya rata-rata"
+        },
+        {
+          "key": "B",
+          "text": "biaya tetap, biaya marginal, dan biaya rata-rata"
+        },
+        {
+          "key": "C",
+          "text": "biaya variabel, biaya marginal, dan biaya total"
+        },
+        {
+          "key": "D",
+          "text": "biaya tetap, biaya variabel, dan biaya marginal"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 44,
+      "text": "Bentuk kurva biaya total rata-rata (LRAC) dalam jangka panjang adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "selalu menanjak"
+        },
+        {
+          "key": "B",
+          "text": "berbentuk u"
+        },
+        {
+          "key": "C",
+          "text": "selalu menurun"
+        },
+        {
+          "key": "D",
+          "text": "berbentuk l"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 45,
+      "text": "Salah satu penentu besarnya monopoli selain harga adalah....",
+      "options": [
+        {
+          "key": "A",
+          "text": "lokasi"
+        },
+        {
+          "key": "B",
+          "text": "brand atau merek"
+        },
+        {
+          "key": "C",
+          "text": "ukuran perusahaan"
+        },
+        {
+          "key": "D",
+          "text": "jumlah pekerja"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 46,
+      "text": "Yang dimaksud dengan 'necessary condition' adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "kondisi yang cukup untuk memastikan hasil tertentu"
+        },
+        {
+          "key": "B",
+          "text": "kondisi yang harus ada agar hasil tertentu mungkin terjadi tetapi mungkin tidak cukup sendirian"
+        },
+        {
+          "key": "C",
+          "text": "kondisi yang optimal untuk hasil tertentu"
+        },
+        {
+          "key": "D",
+          "text": "kondisi yang tidak perlu namun dapat meningkatkan proses"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 47,
+      "text": "Hubungan antara kurva produksi total dan produksi marginal adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "ketika produksi total mencapai maksimum, produksi marginal adalah nol"
+        },
+        {
+          "key": "B",
+          "text": "ketika produksi marginal meningkat, produksi total selalu menurun"
+        },
+        {
+          "key": "C",
+          "text": "produksi marginal selalu positif ketika produksi total menurun"
+        },
+        {
+          "key": "D",
+          "text": "kurva produksi total dan produksi marginal selalu bergerak dalam arah yang berlawanan"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 48,
+      "text": "Faktor penyebab munculnya pasar monopoli meliputi....",
+      "options": [
+        {
+          "key": "A",
+          "text": "kekayaan intelektual seperti paten"
+        },
+        {
+          "key": "B",
+          "text": "persaingan harga"
+        },
+        {
+          "key": "C",
+          "text": "banyak pemain di pasar"
+        },
+        {
+          "key": "D",
+          "text": "pemerintah mendukung banyak perusahaan"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 49,
+      "text": "Yang merupakan ciri-ciri kurva indiferens adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "kurva indiferens berbentuk lurus dan sejajar dengan sumbu"
+        },
+        {
+          "key": "B",
+          "text": "kurva indiferens selalu berpotongan satu sama lain"
+        },
+        {
+          "key": "C",
+          "text": "semua titik pada kurva indiferens memberikan tingkat kepuasan yang sama bagi konsumen"
+        },
+        {
+          "key": "D",
+          "text": "semua titik pada kurva indiferens memiliki harga yang sama"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 50,
+      "text": "Yang dimaksud dengan biaya ekonomis adalah…. ECON4102 - Format Soal dan Kunci Jawaban",
+      "options": [
+        {
+          "key": "A",
+          "text": "biaya yang hanya terkait dengan uang"
+        },
+        {
+          "key": "B",
+          "text": "total dari biaya eksplisit dan biaya implisit yang terkait dengan pengambilan keputusan"
+        },
+        {
+          "key": "C",
+          "text": "biaya yang tidak mempengaruhi keputusan seorang produsen"
+        },
+        {
+          "key": "D",
+          "text": "hanya biaya yang terkait dengan produksi fisik"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 51,
+      "text": "Dalam pasar persaingan murni, keuntungan ekonomis dicapai ketika….",
+      "options": [
+        {
+          "key": "A",
+          "text": "harga produk lebih tinggi dari biaya total produksi"
+        },
+        {
+          "key": "B",
+          "text": "ada monopoli tunggal dalam pasar"
+        },
+        {
+          "key": "C",
+          "text": "harga produk sama dengan biaya total produksi"
+        },
+        {
+          "key": "D",
+          "text": "produksi diatur oleh pemerintah"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 52,
+      "text": "Yang ditunjukkan oleh kurva Engel positif dalam teori konsumsi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "barang tersebut adalah barang inferior"
+        },
+        {
+          "key": "B",
+          "text": "barang tersebut adalah barang normal"
+        },
+        {
+          "key": "C",
+          "text": "konsumen akan konsumsi barang tersebut terlepas dari perubahan harga"
+        },
+        {
+          "key": "D",
+          "text": "kurva Engel positif tidak memberikan informasi tentang jenis barang"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 53,
+      "text": "Fixed factor of production adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "faktor produksi yang dapat disesuaikan dalam jangka pendek"
+        },
+        {
+          "key": "B",
+          "text": "faktor produksi yang tidak dapat disesuaikan dalam jangka pendek"
+        },
+        {
+          "key": "C",
+          "text": "faktor produksi yang selalu variabel dalam jumlahnya"
+        },
+        {
+          "key": "D",
+          "text": "faktor produksi yang selalu konstan dalam jangka panjang"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 54,
+      "text": "Variabel utama yang terlibat dalam kurva Engel adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "harga barang terhadap jumlah yang ditawarkan"
+        },
+        {
+          "key": "B",
+          "text": "harga barang terhadap jumlah yang diminta"
+        },
+        {
+          "key": "C",
+          "text": "pendapatan konsumen terhadap jumlah barang yang diminta"
+        },
+        {
+          "key": "D",
+          "text": "harga substitusi barang terhadap jumlah yang diminta"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 55,
+      "text": "Syarat yang menandakan tercapainya ekuilibrium di pasar persaingan sempurna adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "jumlah barang yang ditawarkan melebihi jumlah barang yang diminta"
+        },
+        {
+          "key": "B",
+          "text": "permintaan melebihi penawaran"
+        },
+        {
+          "key": "C",
+          "text": "semua perusahaan di pasar memperoleh keuntungan"
+        },
+        {
+          "key": "D",
+          "text": "harga stabil dan tidak ada keinginan dari pembeli atau penjual untuk mengubahnya"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 56,
+      "text": "Dari pilihan berikut ini yang merupakan contoh dari sumber energi terbarukan adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "minyak bumi"
+        },
+        {
+          "key": "B",
+          "text": "batu bara"
+        },
+        {
+          "key": "C",
+          "text": "tenaga matahari"
+        },
+        {
+          "key": "D",
+          "text": "gas alam"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 57,
+      "text": "Alasan yang biasa menjadi penyebab kegagalan sektor publik dalam menyediakan barang dan jasa adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "kurangnya persaingan"
+        },
+        {
+          "key": "B",
+          "text": "harga yang terlalu rendah"
+        },
+        {
+          "key": "C",
+          "text": "keberadaan biaya produksi yang tinggi"
+        },
+        {
+          "key": "D",
+          "text": "adanya intervensi pemerintah yang berlebihan"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 58,
+      "text": "Yang termasuk dalam kategori barang kapital adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "uang, saham, hutang"
+        },
+        {
+          "key": "B",
+          "text": "mesin, gedung, peralatan"
+        },
+        {
+          "key": "C",
+          "text": "makanan, pakaian, obat-obatan"
+        },
+        {
+          "key": "D",
+          "text": "buku, pena, kertas"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 59,
+      "text": "Yang dimaksud dengan kegagalan pasar (market failure) adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "kondisi di mana harga barang meningkat tajam"
+        },
+        {
+          "key": "B",
+          "text": "kondisi ketika pemerintah mengintervensi pasar"
+        },
+        {
+          "key": "C",
+          "text": "kondisi di mana alokasi sumber daya di pasar tidak efisien"
+        },
+        {
+          "key": "D",
+          "text": "kondisi saat ada oversupply di pasar"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 60,
+      "text": "Perusahaan sebaiknya mengkombinasikan inputnya untuk memaksimalkan keuntungan dengan…. ECON4102 - Format Soal dan Kunci Jawaban",
+      "options": [
+        {
+          "key": "A",
+          "text": "memilih input dengan harga termurah tanpa mempertimbangkan kualitas"
+        },
+        {
+          "key": "B",
+          "text": "memperbanyak input yang memiliki produktivitas rendah"
+        },
+        {
+          "key": "C",
+          "text": "mengkombinasikan input sehingga rasio produk marginal per biaya inputnya adalah sama untuk semua input"
+        },
+        {
+          "key": "D",
+          "text": "selalu menggunakan input yang paling langka"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 61,
+      "text": "Perbedaan antara kekayaan dan penghasilan adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "kekayaan adalah jumlah aset yang dimiliki seseorang, sedangkan penghasilan adalah pemasukan yang diterima dalam periode tertentu"
+        },
+        {
+          "key": "B",
+          "text": "kekayaan adalah pemasukan tahunan, sedangkan penghasilan adalah total aset"
+        },
+        {
+          "key": "C",
+          "text": "kekayaan dan penghasilan adalah sinonim dan dapat dipertukarkan"
+        },
+        {
+          "key": "D",
+          "text": "kekayaan adalah gaji bulanan seseorang, sedangkan penghasilan adalah dividen yang diterima"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 62,
+      "text": "Yang dimaksud dengan manfaat eksternalitas adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "keuntungan yang diperoleh perusahaan dari adanya permintaan yang tinggi"
+        },
+        {
+          "key": "B",
+          "text": "keuntungan yang diperoleh masyarakat dari tindakan produksi atau konsumsi yang dilakukan oleh pihak lain"
+        },
+        {
+          "key": "C",
+          "text": "keuntungan yang diperoleh pemerintah dari pajak yang diterapkan pada perusahaan"
+        },
+        {
+          "key": "D",
+          "text": "keuntungan yang diperoleh konsumen dari diskon harga"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 63,
+      "text": "Teori Kinked Demand Curve menyiratkan....",
+      "options": [
+        {
+          "key": "A",
+          "text": "perusahaan oligopoli akan menaikkan harga tetapi enggan menurunkannya"
+        },
+        {
+          "key": "B",
+          "text": "perusahaan oligopoli akan menurunkan harga tetapi enggan menaikkan"
+        },
+        {
+          "key": "C",
+          "text": "kurva permintaan cenderung elastis"
+        },
+        {
+          "key": "D",
+          "text": "perusahaan oligopoli selalu mengikuti harga pemimpin pasar"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 64,
+      "text": "Pada kondisi excess profit, perusahaan akan....",
+      "options": [
+        {
+          "key": "A",
+          "text": "mengurangi produksi"
+        },
+        {
+          "key": "B",
+          "text": "menetapkan harga lebih tinggi"
+        },
+        {
+          "key": "C",
+          "text": "meningkatkan produksi"
+        },
+        {
+          "key": "D",
+          "text": "menghentikan produksi"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 65,
+      "text": "Kondisi harga input di pasar monopsoni adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "harga ditentukan oleh pasar dan diterima oleh perusahaan"
+        },
+        {
+          "key": "B",
+          "text": "harga selalu lebih rendah dari harga pasar"
+        },
+        {
+          "key": "C",
+          "text": "harga ditentukan oleh perusahaan sebagai satu-satunya pembeli"
+        },
+        {
+          "key": "D",
+          "text": "harga selalu lebih tinggi dari harga pasar"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 66,
+      "text": "Cara menghitung MRP adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "mengurangkan biaya total dari pendapatan total"
+        },
+        {
+          "key": "B",
+          "text": "mengalikan produk marginal dengan pendapatan marginal"
+        },
+        {
+          "key": "C",
+          "text": "mengalikan biaya marginal dengan harga produk"
+        },
+        {
+          "key": "D",
+          "text": "mengurangkan biaya variabel dari biaya total"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 67,
+      "text": "Dalam pasar persaingan sempurna jangka sangat pendek, perusahaan cenderung....",
+      "options": [
+        {
+          "key": "A",
+          "text": "memperluas kapasitas produksi"
+        },
+        {
+          "key": "B",
+          "text": "menetapkan harga sesuai dengan penawaran dan permintaan"
+        },
+        {
+          "key": "C",
+          "text": "mengurangi produksi karena ketidakpastian"
+        },
+        {
+          "key": "D",
+          "text": "tetap dengan kapasitas produksi saat ini"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 68,
+      "text": "Yang membedakan pasar persaingan monopolistik dari pasar persaingan sempurna adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "banyak penjual dalam persaingan monopolistik"
+        },
+        {
+          "key": "B",
+          "text": "produk yang dijual dalam persaingan monopolistik bersifat homogen"
+        },
+        {
+          "key": "C",
+          "text": "tidak ada perbedaan dalam cara harga ditentukan"
+        },
+        {
+          "key": "D",
+          "text": "produk yang dijual dalam persaingan monopolistik bersifat diferensiasi"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 69,
+      "text": "Dalam analisis jangka pendek, produsen biasanya fokus pada....",
+      "options": [
+        {
+          "key": "A",
+          "text": "ekspansi kapasitas produksi"
+        },
+        {
+          "key": "B",
+          "text": "mengurangi biaya produksi"
+        },
+        {
+          "key": "C",
+          "text": "menyesuaikan output berdasarkan biaya variabel ECON4102 - Format Soal dan Kunci Jawaban"
+        },
+        {
+          "key": "D",
+          "text": "investasi jangka panjang"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 70,
+      "text": "Konsep keseimbangan parsial adalah....",
+      "options": [
+        {
+          "key": "A",
+          "text": "analisis keseluruhan ekonomi"
+        },
+        {
+          "key": "B",
+          "text": "analisis pada satu sektor atau pasar tertentu"
+        },
+        {
+          "key": "C",
+          "text": "analisis berdasarkan asumsi semua faktor tetap"
+        },
+        {
+          "key": "D",
+          "text": "analisis ketika ada perubahan besar dalam ekonomi"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 71,
+      "text": "Yang dimaksud dengan Optimum Pareto adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "kondisi di mana tidak mungkin membuat seseorang lebih baik tanpa membuat orang lain lebih buruk"
+        },
+        {
+          "key": "B",
+          "text": "kondisi di mana semua individu memiliki jumlah kekayaan yang sama"
+        },
+        {
+          "key": "C",
+          "text": "kondisi di mana alokasi sumber daya dapat dimaksimalkan"
+        },
+        {
+          "key": "D",
+          "text": "kondisi di mana perekonomian mencapai kestabilan"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 72,
+      "text": "Efisiensi di pasar persaingan sempurna meliputi....",
+      "options": [
+        {
+          "key": "A",
+          "text": "efisiensi produktif saja"
+        },
+        {
+          "key": "B",
+          "text": "efisiensi alokatif saja"
+        },
+        {
+          "key": "C",
+          "text": "efisiensi produktif dan alokatif"
+        },
+        {
+          "key": "D",
+          "text": "tidak ada yang efisien"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 73,
+      "text": "Efisiensi ekonomi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "kemampuan untuk memperoleh laba maksimum dengan biaya minimal"
+        },
+        {
+          "key": "B",
+          "text": "kemampuan untuk memproduksi barang dengan teknologi terbaru"
+        },
+        {
+          "key": "C",
+          "text": "mencapai output maksimum tanpa mempertimbangkan biaya"
+        },
+        {
+          "key": "D",
+          "text": "kombinasi terbaik antara efisiensi produktif dan alokatif"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 74,
+      "text": "Dari pilihan berikut yang bukan merupakan faktor yang memengaruhi penawaran adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "biaya produksi"
+        },
+        {
+          "key": "B",
+          "text": "teknologi produksi"
+        },
+        {
+          "key": "C",
+          "text": "pendapatan konsumen"
+        },
+        {
+          "key": "D",
+          "text": "harga input atau bahan baku"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 75,
+      "text": "Efek pemberian subsidi pada produsen terhadap kurva penawaran adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "pergeseran ke kanan"
+        },
+        {
+          "key": "B",
+          "text": "pergeseran ke kiri"
+        },
+        {
+          "key": "C",
+          "text": "bergerak ke atas sepanjang kurva"
+        },
+        {
+          "key": "D",
+          "text": "bergerak ke bawah sepanjang kurva"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 76,
+      "text": "Pada diagram permintaan, yang diwakili oleh sumbu vertikal adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "harga barang"
+        },
+        {
+          "key": "B",
+          "text": "kuantitas barang"
+        },
+        {
+          "key": "C",
+          "text": "biaya produksi"
+        },
+        {
+          "key": "D",
+          "text": "elastisitas harga"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 77,
+      "text": "Yang dimaksud dengan permintaan dalam ekonomi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "jumlah barang atau jasa yang dijual di pasar"
+        },
+        {
+          "key": "B",
+          "text": "jumlah barang atau jasa yang diinginkan konsumen pada berbagai tingkat harga"
+        },
+        {
+          "key": "C",
+          "text": "harga suatu barang di pasar"
+        },
+        {
+          "key": "D",
+          "text": "kemampuan seseorang untuk membeli barang atau jasa"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 78,
+      "text": "Analisis mengenai tingkat pengangguran nasional dan cara menurunkannya termasuk dalam kajian….",
+      "options": [
+        {
+          "key": "A",
+          "text": "mikroekonomi"
+        },
+        {
+          "key": "B",
+          "text": "makroekonomi"
+        },
+        {
+          "key": "C",
+          "text": "ekonomi sumber daya"
+        },
+        {
+          "key": "D",
+          "text": "ekonomi moneter"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 79,
+      "text": "Dalam kajian ilmiah, yang dimaksud dengan fakta adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "opini subjektif yang didasarkan pada perasaan pribadi"
+        },
+        {
+          "key": "B",
+          "text": "informasi yang belum diverifikasi kebenarannya"
+        },
+        {
+          "key": "C",
+          "text": "dugaan atau hipotesis awal tentang suatu fenomena ECON4102 - Format Soal dan Kunci Jawaban"
+        },
+        {
+          "key": "D",
+          "text": "kejadian atau fenomena yang diamati dan dapat dibuktikan keberadaannya"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 80,
+      "text": "Menurut klasifikasi Sumitro Djojohadikusumo mengenai faktor produksi, dari pilihan berikut yang bukan termasuk dalam kategori faktor produksi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "sumber daya alam"
+        },
+        {
+          "key": "B",
+          "text": "tenaga kerja"
+        },
+        {
+          "key": "C",
+          "text": "teknologi"
+        },
+        {
+          "key": "D",
+          "text": "kemampuan berorganisasi"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 81,
+      "text": "Yang dimaksud dengan tingkat substitusi marjinal (marginal rate of substitution) adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "kenaikan jumlah salah satu barang yang harus dikurangi untuk mempertahankan tingkat kepuasan yang sama saat konsumsi barang lain berkurang"
+        },
+        {
+          "key": "B",
+          "text": "proporsi barang yang dapat ditukar dengan barang lain dengan harga yang sama"
+        },
+        {
+          "key": "C",
+          "text": "kenaikan harga barang yang menyebabkan konsumen beralih ke barang lain"
+        },
+        {
+          "key": "D",
+          "text": "perubahan total kepuasan saat mengkonsumsi barang tambahan"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 82,
+      "text": "Faktor yang memengaruhi elastisitas penawaran adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "waktu produksi barang"
+        },
+        {
+          "key": "B",
+          "text": "pendapatan konsumen"
+        },
+        {
+          "key": "C",
+          "text": "harga barang lain"
+        },
+        {
+          "key": "D",
+          "text": "preferensi konsumen"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 83,
+      "text": "Rumus yang tepat untuk menghitung biaya total adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "biaya total = biaya variabel + biaya tetap"
+        },
+        {
+          "key": "B",
+          "text": "biaya total = biaya marginal x jumlah barang"
+        },
+        {
+          "key": "C",
+          "text": "biaya total = biaya variabel – biaya tetap"
+        },
+        {
+          "key": "D",
+          "text": "biaya total = biaya marginal/jumlah barang"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 84,
+      "text": "Bentuk yang tidak mewakili kurva LRAC (Long-Run Average Cost) adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "u-bentuk"
+        },
+        {
+          "key": "B",
+          "text": "L-bentuk"
+        },
+        {
+          "key": "C",
+          "text": "s-bentuk"
+        },
+        {
+          "key": "D",
+          "text": "zigzag"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 85,
+      "text": "Dalam keseimbangan pasar monopoli jangka pendek, keuntungan maksimum diperoleh di titik di mana....",
+      "options": [
+        {
+          "key": "A",
+          "text": "MC = MR"
+        },
+        {
+          "key": "B",
+          "text": "AR > MR"
+        },
+        {
+          "key": "C",
+          "text": "AR = MR"
+        },
+        {
+          "key": "D",
+          "text": "MC > MR"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 86,
+      "text": "Dalam konteks produksi, yang dimaksud dengan daerah produksi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "wilayah geografis tempat produksi berlangsung"
+        },
+        {
+          "key": "B",
+          "text": "tahapan dalam siklus produksi mulai dari persiapan hingga distribusi"
+        },
+        {
+          "key": "C",
+          "text": "kombinasi input-output yang menunjukkan semua kemungkinan produksi yang efisien"
+        },
+        {
+          "key": "D",
+          "text": "daerah di mana produsen menargetkan penjualan mereka"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 87,
+      "text": "Yang diwakili oleh kurva produksi marginal adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "hubungan antara output total dan jumlah unit input"
+        },
+        {
+          "key": "B",
+          "text": "rata-rata produksi per unit input"
+        },
+        {
+          "key": "C",
+          "text": "perubahan output dari penambahan satu unit input"
+        },
+        {
+          "key": "D",
+          "text": "biaya rata-rata produksi"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 88,
+      "text": "Contoh perusahaan monopoli adalah....",
+      "options": [
+        {
+          "key": "A",
+          "text": "McDonald's"
+        },
+        {
+          "key": "B",
+          "text": "Apple"
+        },
+        {
+          "key": "C",
+          "text": "PLN"
+        },
+        {
+          "key": "D",
+          "text": "Nike"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 89,
+      "text": "Pilihan berikut ini yang merupakan asumsi dasar pendekatan fungsi kegunaan dalam analisis konsumen adalah…. ECON4102 - Format Soal dan Kunci Jawaban",
+      "options": [
+        {
+          "key": "A",
+          "text": "konsumen selalu memaksimalkan pendapatannya"
+        },
+        {
+          "key": "B",
+          "text": "semua barang memiliki fungsi kegunaan yang sama"
+        },
+        {
+          "key": "C",
+          "text": "kepuasan yang didapatkan dari konsumsi barang tambahan selalu konstan"
+        },
+        {
+          "key": "D",
+          "text": "konsumen bertujuan memaksimalkan kepuasan dari barang yang dikonsumsi"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 90,
+      "text": "Faktor-faktor berikut yang sering menjadi pertimbangan pemerintah dalam menentukan harga energi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "popularitas energi di kalangan masyarakat"
+        },
+        {
+          "key": "B",
+          "text": "biaya produksi, dampak lingkungan, dan kebutuhan masyarakat"
+        },
+        {
+          "key": "C",
+          "text": "persaingan antar produsen energi"
+        },
+        {
+          "key": "D",
+          "text": "promosi energi terbarukan oleh negara lain"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 91,
+      "text": "Biaya tambahan (Incremental Cost) dalam ekonomi energi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "biaya tambahan yang dikeluarkan untuk menghasilkan satu unit tambahan produk"
+        },
+        {
+          "key": "B",
+          "text": "selisih biaya produksi antara dua periode"
+        },
+        {
+          "key": "C",
+          "text": "biaya tambahan yang dikeluarkan untuk membeli bahan baku"
+        },
+        {
+          "key": "D",
+          "text": "biaya yang dikeluarkan untuk inovasi produk"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 92,
+      "text": "Kondisi surplus konsumen tercapai pada….",
+      "options": [
+        {
+          "key": "A",
+          "text": "saat harga barang lebih rendah daripada nilai maksimal yang bersedia dibayar konsumen"
+        },
+        {
+          "key": "B",
+          "text": "saat harga barang setara dengan nilai maksimal yang bersedia dibayar konsumen"
+        },
+        {
+          "key": "C",
+          "text": "saat harga barang lebih tinggi daripada nilai maksimal yang bersedia dibayar konsumen"
+        },
+        {
+          "key": "D",
+          "text": "saat harga barang tidak berpengaruh terhadap keputusan konsumen"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 93,
+      "text": "Bentuk fungsi produksi kuadratik yang sesuai adalah ….",
+      "options": [
+        {
+          "key": "A",
+          "text": "Q=a+bK+cL+dK²+eL²"
+        },
+        {
+          "key": "B",
+          "text": "Q=aK+bL"
+        },
+        {
+          "key": "C",
+          "text": "Q=aKᵇLᶜ"
+        },
+        {
+          "key": "D",
+          "text": "Q=aKL"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 94,
+      "text": "Yang bukan merupakan faktor harga yang memengaruhi permintaan suatu barang adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "pendapatan konsumen"
+        },
+        {
+          "key": "B",
+          "text": "harga barang substitusi"
+        },
+        {
+          "key": "C",
+          "text": "selera dan preferensi konsumen"
+        },
+        {
+          "key": "D",
+          "text": "harga barang tersebut"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 95,
+      "text": "Perusahaan mencapai tingkat output optimalnya saat….",
+      "options": [
+        {
+          "key": "A",
+          "text": "biaya rata-rata paling rendah"
+        },
+        {
+          "key": "B",
+          "text": "biaya marginal sama dengan pendapatan marginal"
+        },
+        {
+          "key": "C",
+          "text": "pendapatan total paling tinggi"
+        },
+        {
+          "key": "D",
+          "text": "harga produk paling tinggi"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 96,
+      "text": "Sumber energi yang sekali dimanfaatkan tidak dapat diperbaharui kembali dalam waktu singkat adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "energi angin"
+        },
+        {
+          "key": "B",
+          "text": "energi geothermal"
+        },
+        {
+          "key": "C",
+          "text": "biomassa"
+        },
+        {
+          "key": "D",
+          "text": "uranium"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 97,
+      "text": "Yang dimaksud dengan istilah \"free riders\" dalam konteks barang publik adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "konsumen yang membayar lebih untuk sebuah barang"
+        },
+        {
+          "key": "B",
+          "text": "individu yang memanfaatkan barang tanpa harus membayarnya"
+        },
+        {
+          "key": "C",
+          "text": "pelaku bisnis yang menawarkan barang dengan harga gratis"
+        },
+        {
+          "key": "D",
+          "text": "pelaku bisnis yang melakukan persaingan tidak sehat"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 98,
+      "text": "Yang dimaksud dengan rente adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "pembayaran tetap dari pinjaman"
+        },
+        {
+          "key": "B",
+          "text": "harga sewa tanah atau properti"
+        },
+        {
+          "key": "C",
+          "text": "penerimaan dari dividen saham"
+        },
+        {
+          "key": "D",
+          "text": "bonus tahunan dari perusahaan ECON4102 - Format Soal dan Kunci Jawaban"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 99,
+      "text": "Keuntungan dari sistem harga pasar adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "menghasilkan distribusi pendapatan yang setara"
+        },
+        {
+          "key": "B",
+          "text": "mengalokasikan sumber daya secara efisien"
+        },
+        {
+          "key": "C",
+          "text": "menghindari inflasi"
+        },
+        {
+          "key": "D",
+          "text": "memastikan bahwa semua konsumen mendapat harga terbaik"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 100,
+      "text": "Yang dimaksud dengan efek output adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "peningkatan produksi ketika input ditambahkan"
+        },
+        {
+          "key": "B",
+          "text": "penurunan harga jual karena meningkatnya produksi"
+        },
+        {
+          "key": "C",
+          "text": "keuntungan yang diperoleh dari setiap unit tambahan yang dijual"
+        },
+        {
+          "key": "D",
+          "text": "kenaikan harga produk karena permintaan yang tinggi"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 101,
+      "text": "Yang dimaksud dengan dividen adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "bagian dari laba perusahaan yang diberikan kepada pemegang saham"
+        },
+        {
+          "key": "B",
+          "text": "bunga yang diberikan kepada pemegang obligasi"
+        },
+        {
+          "key": "C",
+          "text": "sewa yang diterima dari penyewaan properti"
+        },
+        {
+          "key": "D",
+          "text": "biaya yang diterima untuk jasa konsultasi"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 102,
+      "text": "Yang menggambarkan perusahaan dengan eksternalitas positif adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "perusahaan tekstil yang mencemari udara dengan polusi"
+        },
+        {
+          "key": "B",
+          "text": "perusahaan rokok yang menyebabkan peningkatan biaya kesehatan masyarakat"
+        },
+        {
+          "key": "C",
+          "text": "perusahaan yang mengembangkan obat baru untuk penyakit yang belum ada obatnya"
+        },
+        {
+          "key": "D",
+          "text": "perusahaan penebangan kayu yang mengurangi luas hutan"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 103,
+      "text": "Salah satu ciri-ciri pasar oligopoli adalah....",
+      "options": [
+        {
+          "key": "A",
+          "text": "banyak perusahaan kecil"
+        },
+        {
+          "key": "B",
+          "text": "pasar dikuasai oleh beberapa perusahaan besar"
+        },
+        {
+          "key": "C",
+          "text": "pasar dikuasai oleh satu perusahaan"
+        },
+        {
+          "key": "D",
+          "text": "setiap perusahaan memiliki kuota pasar yang sama"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 104,
+      "text": "Yang dimaksud dengan closing-down point adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "titik di mana perusahaan memulai produksi"
+        },
+        {
+          "key": "B",
+          "text": "titik di mana perusahaan mencapai keuntungan maksimum"
+        },
+        {
+          "key": "C",
+          "text": "titik di mana permintaan pasar terpenuhi"
+        },
+        {
+          "key": "D",
+          "text": "titik di mana perusahaan memutuskan untuk menghentikan produksi"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 105,
+      "text": "Eksploitasi input pada perusahaan monopsoni adalah perusahaan….",
+      "options": [
+        {
+          "key": "A",
+          "text": "membeli input dengan harga yang sangat tinggi"
+        },
+        {
+          "key": "B",
+          "text": "membeli input dengan harga yang lebih rendah dari nilai sebenarnya"
+        },
+        {
+          "key": "C",
+          "text": "selalu berusaha untuk mengurangi penggunaan input"
+        },
+        {
+          "key": "D",
+          "text": "membeli input tanpa mempertimbangkan harga"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 106,
+      "text": "Kondisi harga output di pasar persaingan sempurna adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "harga ditentukan oleh produsen tunggal"
+        },
+        {
+          "key": "B",
+          "text": "harga bersifat fleksibel dan ditentukan oleh permintaan dan penawaran"
+        },
+        {
+          "key": "C",
+          "text": "harga selalu naik"
+        },
+        {
+          "key": "D",
+          "text": "harga ditentukan dan tetap, diterima oleh semua produsen"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 107,
+      "text": "Pada kondisi ekuilibrium dengan kurva TR dan TC, kedua kurva tersebut….",
+      "options": [
+        {
+          "key": "A",
+          "text": "bersinggungan satu sama lain"
+        },
+        {
+          "key": "B",
+          "text": "tidak pernah bersinggungan"
+        },
+        {
+          "key": "C",
+          "text": "TC selalu di atas TR"
+        },
+        {
+          "key": "D",
+          "text": "TR selalu di atas TC"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 108,
+      "text": "Yang terjadi pada persaingan monopolistik dalam jangka panjang adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "harga akan tetap stabil"
+        },
+        {
+          "key": "B",
+          "text": "perusahaan akan mendapatkan keuntungan ekstra"
+        },
+        {
+          "key": "C",
+          "text": "persaingan akan menghilang karena perusahaan berkolusi"
+        },
+        {
+          "key": "D",
+          "text": "keuntungan nol dalam jangka panjang"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "num": 109,
+      "text": "Marginal Revenue (MR) merupakan.... ECON4102 - Format Soal dan Kunci Jawaban",
+      "options": [
+        {
+          "key": "A",
+          "text": "keuntungan tambahan yang diperoleh dari penjualan satu unit tambahan"
+        },
+        {
+          "key": "B",
+          "text": "biaya tambahan untuk produksi satu unit tambahan"
+        },
+        {
+          "key": "C",
+          "text": "penerimaan total dibagi dengan jumlah unit yang dijual"
+        },
+        {
+          "key": "D",
+          "text": "biaya total untuk produksi satu unit tambahan"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 110,
+      "text": "Yang terjadi dalam penyesuaian pasar jangka pendek adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "semua faktor produksi berubah"
+        },
+        {
+          "key": "B",
+          "text": "semua faktor produksi tetap tidak berubah"
+        },
+        {
+          "key": "C",
+          "text": "beberapa faktor produksi tetap, sementara yang lain dapat berubah"
+        },
+        {
+          "key": "D",
+          "text": "hanya harga yang berubah, sementara semua faktor produksi lainnya tetap"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 111,
+      "text": "Efisiensi alokasi sumber daya dapat digambarkan pada kurva....",
+      "options": [
+        {
+          "key": "A",
+          "text": "permintaan"
+        },
+        {
+          "key": "B",
+          "text": "penawaran"
+        },
+        {
+          "key": "C",
+          "text": "kemungkinan produksi"
+        },
+        {
+          "key": "D",
+          "text": "cost-benefit"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 112,
+      "text": "Salah satu kelebihan pasar persaingan sempurna adalah....",
+      "options": [
+        {
+          "key": "A",
+          "text": "keuntungan besar bagi perusahaan"
+        },
+        {
+          "key": "B",
+          "text": "kualitas produk yang beragam"
+        },
+        {
+          "key": "C",
+          "text": "keputusan harga didasarkan pada penawaran dan permintaan"
+        },
+        {
+          "key": "D",
+          "text": "monopoli beberapa perusahaan"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 113,
+      "text": "Penetapan harga penting dalam menentukan efisiensi ekonomi di sektor pembangkit listrik karena….",
+      "options": [
+        {
+          "key": "A",
+          "text": "harga yang tepat dapat mencerminkan biaya produksi dan memotivasi peningkatan efisiensi"
+        },
+        {
+          "key": "B",
+          "text": "harga yang lebih tinggi selalu menghasilkan keuntungan yang lebih besar"
+        },
+        {
+          "key": "C",
+          "text": "penetapan harga tidak mempengaruhi efisiensi"
+        },
+        {
+          "key": "D",
+          "text": "harga yang rendah memastikan akses yang lebih luas untuk konsumen"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 114,
+      "text": "Yang dimaksud dengan penawaran dalam ekonomi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "jumlah barang atau jasa yang produsen bersedia dan mampu jual pada berbagai tingkat harga"
+        },
+        {
+          "key": "B",
+          "text": "jumlah barang atau jasa yang konsumen ingin beli"
+        },
+        {
+          "key": "C",
+          "text": "selera dan preferensi produsen"
+        },
+        {
+          "key": "D",
+          "text": "harga pasar saat ini"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "num": 115,
+      "text": "Ceiling prices adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "harga minimum yang diperbolehkan oleh pemerintah"
+        },
+        {
+          "key": "B",
+          "text": "harga maksimal yang diperbolehkan oleh pemerintah"
+        },
+        {
+          "key": "C",
+          "text": "harga yang dikenakan kepada produsen agar mereka meningkatkan produksi"
+        },
+        {
+          "key": "D",
+          "text": "harga yang dikenakan kepada konsumen agar mereka membeli lebih banyak"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 116,
+      "text": "Yang menyebabkan pergeseran pada kurva penawaran adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "perubahan harga barang tersebut"
+        },
+        {
+          "key": "B",
+          "text": "perubahan selera konsumen"
+        },
+        {
+          "key": "C",
+          "text": "perubahan teknologi produksi"
+        },
+        {
+          "key": "D",
+          "text": "perubahan pendapatan konsumen"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 117,
+      "text": "Jika harga suatu barang meningkat dan semua faktor lainnya tetap konstan, efeknya terhadap jumlah barang yang diminta adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "jumlah barang yang diminta akan meningkat"
+        },
+        {
+          "key": "B",
+          "text": "jumlah barang yang diminta akan tetap"
+        },
+        {
+          "key": "C",
+          "text": "jumlah barang yang diminta akan menurun"
+        },
+        {
+          "key": "D",
+          "text": "efek tergantung pada jenis barangnya"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 118,
+      "text": "Analisis keseimbangan umum dalam ekonomi berupaya untuk memahami….",
+      "options": [
+        {
+          "key": "A",
+          "text": "fungsi pasar tertentu dalam mencapai keseimbangan"
+        },
+        {
+          "key": "B",
+          "text": "interaksi dan keterikatan antara berbagai pasar dan bagaimana mencapai keseimbangan bersama"
+        },
+        {
+          "key": "C",
+          "text": "keseimbangan antara permintaan dan penawaran dalam pasar monopoli"
+        },
+        {
+          "key": "D",
+          "text": "cara individu memaksimalkan kepuasan dari konsumsi ECON4102 - Format Soal dan Kunci Jawaban"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "num": 119,
+      "text": "Arti dari istilah \"ceteris paribus\" dalam kajian ekonomi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "menghitung keuntungan total"
+        },
+        {
+          "key": "B",
+          "text": "menilai biaya peluang"
+        },
+        {
+          "key": "C",
+          "text": "semua faktor lainnya tetap konstan"
+        },
+        {
+          "key": "D",
+          "text": "mengukur elastisitas harga"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "num": 120,
+      "text": "Yang dimaksud dengan aktivitas ekonomi adalah….",
+      "options": [
+        {
+          "key": "A",
+          "text": "aktivitas yang melibatkan pertukaran barang dan jasa"
+        },
+        {
+          "key": "B",
+          "text": "aktivitas yang melibatkan produksi, distribusi dan konsumsi"
+        },
+        {
+          "key": "C",
+          "text": "aktivitas yang hanya terjadi di sektor publik"
+        },
+        {
+          "key": "D",
+          "text": "aktivitas yang tidak memerlukan sumber daya ECON4102 - Format Soal dan Kunci Jawaban KUNCI JAWABAN"
+        }
+      ],
+      "answer": "B"
+    }
+  ]
+}
