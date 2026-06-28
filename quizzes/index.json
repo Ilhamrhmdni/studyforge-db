@@ -1,6 +1,15 @@
 {
   "quizzes": [
     {
+      "id": "quiz-1782680650030",
+      "title": "ECON4102_Format_Soal_Kunci",
+      "subject": "Umum",
+      "description": "",
+      "duration": 120,
+      "count": 120,
+      "createdAt": "2026-06-28T21:04:10.030Z"
+    },
+    {
       "id": "quiz-1782616689226",
       "title": "ECON4102_MIKRO_Bersih",
       "subject": "Umum",
