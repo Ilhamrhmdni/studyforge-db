@@ -1,1 +1,23 @@
-{"quizzes":[{"id":"quiz-1782596237398","title":"Try Out Set B_ MANAGEMENT_VERSI 2","subject":"MANAGEMENT_VERSI 2","description":"","duration":60,"count":45,"createdAt":"2026-06-27T21:37:17.398Z"}],"totalResults":0}
+{
+  "quizzes": [
+    {
+      "id": "quiz-1782616689226",
+      "title": "ECON4102_MIKRO_Bersih",
+      "subject": "Umum",
+      "description": "",
+      "duration": 60,
+      "count": 117,
+      "createdAt": "2026-06-28T03:18:09.226Z"
+    },
+    {
+      "id": "quiz-1782596237398",
+      "title": "Try Out Set B_ MANAGEMENT_VERSI 2",
+      "subject": "MANAGEMENT_VERSI 2",
+      "description": "",
+      "duration": 60,
+      "count": 45,
+      "createdAt": "2026-06-27T21:37:17.398Z"
+    }
+  ],
+  "totalResults": 0
+}
